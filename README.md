@@ -1,15 +1,33 @@
-# Black Friday & Cyber Monday Deals 2026
+# 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%206%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Deals-300%2B-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-300%2B-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated collection of the best Black Friday and Cyber Monday 2026 deals for developers, designers, security professionals, gamers, and tech enthusiasts. Updated daily through Cyber Monday.
+The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 300+ verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
-**Black Friday: November 27, 2026 | Cyber Monday: November 30, 2026**
+> ⭐ **Star this repo to help it trend on Black Friday!** Every star helps more people find these deals.
 
-> **Legend:** ✅ Confirmed — deal is live or officially announced | ⏳ Expected — based on prior-year patterns, not yet announced | ❌ No deal expected
+**🗓️ Black Friday: November 27, 2026 | Cyber Monday: November 30, 2026**
+
+### 💸 Deal Legend
+| Symbol | Meaning |
+|--------|---------|
+| ✅ | **Confirmed** — deal is live or officially announced |
+| ⏳ | **Expected** — based on prior-year patterns, not yet announced |
+| ❌ | **No deal expected** — vendor has no history of seasonal discounts |
+| 💸 | **50% OFF or more** |
+| ♾️ | **Lifetime deal** — pay once, use forever |
+
+---
+
+### 🆕 What's New (Updated Daily)
+
+- **Nov 6** — Initial launch with 300+ deals across 12 categories
+- **Nov 6** — Early confirmed deals live: PlayStation Store, Best Buy, Amazon, Herman Miller, Myprotein, FlexiSpot
+- Deals are verified against vendor pages and trusted aggregators. No affiliate links.
 
 ---
 
@@ -505,20 +523,37 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 
 Found a deal we missed? Prices changed? PRs are welcome!
 
-### How to contribute
+### How to add a deal
 
 1. Fork this repo
 2. Add or update deals in the relevant category
 3. Use the format: `| [Product](url) | Description | **Deal details** | ✅/⏳ |`
 4. Submit a PR with a clear title (e.g., "Add: JetBrains 2026 confirmed deal")
 
-### Guidelines
+**Not technical?** Open an [issue](https://github.com/Shashankt255/black-friday-deals-2026/issues/new) with the deal details and we'll add it.
 
-- Only add deals with real discounts (not regular pricing marketed as "deals")
-- Include the source or link to the official deal page
-- Mark status accurately: ✅ for confirmed/live deals, ⏳ for expected
-- Keep descriptions concise (one line)
-- No affiliate links
+### Submission Guidelines
+
+- ✅ Only add deals with **real discounts** (not regular pricing marketed as "deals")
+- ✅ Include the source or link to the **official deal page**
+- ✅ Mark status accurately: ✅ for confirmed, ⏳ for expected
+- ✅ Keep descriptions concise (one line)
+- ❌ No affiliate links
+- ❌ No expired deals — if a deal has ended, open a PR to remove it
+
+### 🏷️ Featured on This List?
+
+If your product is listed here, you can add this badge to your site:
+
+```markdown
+[![Featured on Black Friday Deals 2026](https://img.shields.io/badge/Featured%20on-Black%20Friday%20Deals%202026-brightgreen)](https://github.com/Shashankt255/black-friday-deals-2026)
+```
+
+---
+
+## 📅 Past Years
+
+This repo is maintained annually. Archives will be preserved as `README_2026.md` at the end of the season.
 
 ---
 
@@ -526,4 +561,6 @@ Found a deal we missed? Prices changed? PRs are welcome!
 
 **Disclaimer:** Prices and availability may change. Always verify on the vendor's official site before purchasing. This repo is community-maintained and not affiliated with any listed vendor.
 
-Maintained by [Shashankt255](https://github.com/Shashankt255) | Also check out [GLASSCAGE](https://github.com/Shashankt255/glasscage) — AI security assessment platform
+---
+
+Maintained by [Shashankt255](https://github.com/Shashankt255) | Also check out **[GLASSCAGE](https://github.com/Shashankt255/glasscage)** — open-source AI security assessment platform
