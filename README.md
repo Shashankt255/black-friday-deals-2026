@@ -233,6 +233,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 |---------|-------------|------|--------|
 | [SEOPress](https://www.seopress.org/) | WordPress SEO plugin | Sale starts **Nov 25** | ✅ |
 | [Rank Math](https://rankmath.com/) | WordPress SEO plugin | Sale window opened **Oct 28** | ✅ |
+| [Nuelink](https://offer.nuelink.com/mcp/) | Agentic social media scheduling and automation for 12 platforms | **50% OFF** yearly plans (6 months free) / **25% OFF** first 3 monthly payments — code `BFCM26` (Nov 6 – Nov 30) | ✅ |
 | [Semrush](https://www.semrush.com/) | All-in-one SEO platform | **17% OFF** annual | ⏳ |
 | [Ahrefs](https://ahrefs.com/) | SEO toolset | **No Black Friday sale** (never discounts) | ❌ |
 
