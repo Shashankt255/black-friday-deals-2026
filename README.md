@@ -188,6 +188,8 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Codecademy Pro](https://www.codecademy.com/) | Interactive coding lessons | **50% OFF** Pro Annual | ⏳ |
 | [Pluralsight](https://www.pluralsight.com/) | Tech skills (cloud, security, dev) | ~50% OFF | ⏳ |
 | [MasterClass](https://www.masterclass.com/) | Celebrity-taught classes | **50% OFF** | ⏳ |
+| [LabEx Pro (1 Year)](https://labex.io/checkout?type=2&coupon=2026BF30) | Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud. | **30% OFF** — **$69.90** with code `2026BF30` (active now; ends Dec 7, 2026; new and existing users) | ✅ |
+| [LabEx Pro (2 Years)](https://labex.io/checkout?type=4&coupon=2026BF50) | Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud. | **50% OFF** — **$99.90** with code `2026BF50` (active now; ends Dec 7, 2026; new and existing users) | ✅ |
 
 ### Cybersecurity Training
 
