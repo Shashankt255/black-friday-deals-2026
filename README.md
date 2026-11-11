@@ -71,6 +71,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [SaaSBold](https://saasbold.com/) | Next.js SaaS boilerplate | ~40-50% OFF | ⏳ |
 | [CodedThemes](https://codedthemes.com/) | React/Angular/Vue admin dashboards | **40% OFF** storewide | ⏳ |
 | [Paperform](https://paperform.co/) | No-code form builder with developer API | **50% OFF** annual | ⏳ |
+| [RealUptime](https://realuptime.io/pricing) | Uptime monitoring, status pages and error tracking on one plan | **50% OFF for life** for the first 20 customers, automatic at checkout, no code (through Nov 30) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
