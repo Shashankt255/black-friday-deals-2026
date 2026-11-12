@@ -153,6 +153,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [nexos.ai](https://nexos.ai/) | AI business platform | **75% OFF** annual plan | ✅ |
 | [Jasper](https://www.jasper.ai/) | AI copywriting & marketing | Up to $1000 off annual | ⏳ |
 | [Grammarly](https://www.grammarly.com/) | AI writing assistant | ~50% OFF Pro plans | ⏳ |
+| [Orwellix](https://orwellix.com/lifetime-deal?utm_source=shashankt-bf2026&utm_medium=deal-directory&utm_campaign=lifetime-deal-2026) | AI writing editor with reviewable agent edits, grammar, readability & plagiarism checks | **47% OFF** vs a year of Premium — Lifetime plan $249 once instead of $468/yr, no code needed, first 300 buyers (Nov 12 – Dec 31) | ✅ |
 
 ### AI Image & Video
 
