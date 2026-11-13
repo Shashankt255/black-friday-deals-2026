@@ -1,6 +1,6 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November%206%2C%202026-brightgreen)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2014%2C%202026-brightgreen)](#)
 [![Deals](https://img.shields.io/badge/Total%20Deals-300%2B-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
@@ -25,8 +25,10 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 
 ### 🆕 What's New (Updated Daily)
 
+- **Nov 14** — 6 deals confirmed live: 1Password, FreshBooks, Headspace, Lenovo, Secretlab, Coursera Plus
+- **Nov 14** — Herman Miller sale expired (ended Nov 12), updated pricing and details
 - **Nov 6** — Initial launch with 300+ deals across 12 categories
-- **Nov 6** — Early confirmed deals live: PlayStation Store, Best Buy, Amazon, Herman Miller, Myprotein, FlexiSpot
+- **Nov 6** — Early confirmed deals live: PlayStation Store, Best Buy, Amazon, Myprotein, FlexiSpot
 - Deals are verified against vendor pages and trusted aggregators. No affiliate links.
 
 ---
@@ -106,7 +108,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Proton Pass](https://proton.me/pass) | E2E encrypted password manager | **60% OFF** Pass Plus | ✅ |
 | [RoboForm](https://roboform.com/) | Cross-platform password manager | **64% OFF** annual | ✅ |
 | [Bitdefender](https://www.bitdefender.com/) | Antivirus + VPN + password manager | **Up to 78% OFF** — Premium from $12.99 | ✅ |
-| [1Password](https://1password.com/) | Password manager for teams & families | Discount expected | ⏳ |
+| [1Password](https://1password.com/) | Password manager for teams & families | **~50% OFF** first year — Individual & Families (new customers) | ✅ |
 
 ## ☁️ Cloud, Hosting & Domains
 
@@ -182,7 +184,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 |---------|-------------|------|--------|
 | [Flavio Copes](https://flaviocopes.com/black-friday/) | AI Workshop + 4 coding masterclasses | Sale opens **Nov 23** | ✅ |
 | [Udemy](https://www.udemy.com/) | Massive course catalog | Courses from **$9.99** (up to 85% off, ~Nov 19–29) | ⏳ |
-| [Coursera Plus](https://www.coursera.org/) | 7,000+ courses all-access | **$1 first month** or **$100 OFF** annual (~Nov 21–24) | ⏳ |
+| [Coursera Plus](https://www.coursera.org/) | 7,000+ courses all-access | **40% OFF** annual — $239.40/yr (reg $399, ends Nov 30) | ✅ |
 | [DataCamp](https://www.datacamp.com/) | Data science, Python, R, SQL | **50-65% OFF** Premium annual (~Nov 22–28) | ⏳ |
 | [Educative.io](https://www.educative.io/) | Interactive text-based coding courses | **72% OFF** unlimited plans | ⏳ |
 | [Codecademy Pro](https://www.codecademy.com/) | Interactive coding lessons | **50% OFF** Pro Annual | ⏳ |
@@ -352,8 +354,8 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 
 | Product | Description | Deal | Status |
 |---------|-------------|------|--------|
-| Herman Miller Embody Gaming | Premium ergonomic | **25% OFF** (~$1,421) — ends Nov 12 | ✅ |
-| Secretlab Titan Evo | Popular premium chair | Up to $100 off (~$389) | ⏳ |
+| ~~Herman Miller Embody Gaming~~ | Premium ergonomic | ~~25% OFF~~ — **EXPIRED** Nov 12 | ❌ |
+| [Secretlab Titan Evo](https://secretlab.co/) | Popular premium chair | **Up to $100 OFF** — from $499 (Nov 12 – Dec 5) | ✅ |
 
 ## 🖥️ Electronics & Hardware
 
@@ -365,7 +367,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | MacBook Air 13 M5 (16/1TB) | Higher storage | **$1,349.99** (~$249 off) at Amazon | ✅ |
 | Dell XPS 13 (3K Touch) | Compact ultrabook | **$599.99** ($200 off) at Best Buy | ✅ |
 | Dell XPS 13 (16GB/512GB) | Higher config | **$999.99** (all-time low) at Best Buy | ✅ |
-| Lenovo ThinkPad / Yoga / Legion | Full Lenovo lineup | Up to 45% OFF | ⏳ |
+| [Lenovo ThinkPad / Yoga / Legion](https://www.lenovo.com/us/en/deals/black-friday-sale/) | Full Lenovo lineup | **27-68% OFF** — ThinkPad X1 Carbon ~$1,524, Yoga 7 ~$749 | ✅ |
 
 ### Storage
 
@@ -408,7 +410,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 |---------|-------------|------|--------|
 | [Xero](https://www.xero.com/) | Cloud accounting & invoicing | **90% OFF** for 4 months | ✅ |
 | [QuickBooks Online](https://quickbooks.intuit.com/) | Small business accounting | **50-70% OFF** for 3 months (new customers) | ⏳ |
-| [FreshBooks](https://www.freshbooks.com/) | Freelancer accounting | **70% OFF** 4 months / $1/mo first year | ⏳ |
+| [FreshBooks](https://www.freshbooks.com/) | Freelancer accounting | **80% OFF** 4 months — Lite $4.60/mo, Plus $8.60/mo, Premium $14/mo (Oct 14 – Dec 31) | ✅ |
 
 ### CRM & Sales
 
@@ -481,8 +483,8 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | Product | Description | Deal | Status |
 |---------|-------------|------|--------|
 | [FlexiSpot](https://www.flexispot.com/) | Electric sit-stand desks | Deals **live now** (~$300, reg $499) | ✅ |
-| [Herman Miller Aeron](https://www.hermanmiller.com/) | Iconic ergonomic chair | **25% OFF** (ends Nov 12) | ✅ |
-| Secretlab TITAN Evo | Premium gaming/office chair | ~$80 off ($499, reg $579) | ⏳ |
+| ~~[Herman Miller Aeron](https://www.hermanmiller.com/)~~ | Iconic ergonomic chair | ~~25% OFF~~ — **EXPIRED** Nov 12 | ❌ |
+| [Secretlab TITAN Evo](https://secretlab.co/) | Premium gaming/office chair | **Up to $100 OFF** — from $499 (Nov 12 – Dec 5) | ✅ |
 | UPLIFT V2 | Standing desk | $100-200 off | ⏳ |
 
 ### Recovery & Fitness
@@ -504,7 +506,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 
 | Product | Description | Deal | Status |
 |---------|-------------|------|--------|
-| [Headspace](https://www.headspace.com/) | Meditation & mindfulness | **50% OFF** first year (~$34.99) | ⏳ |
+| [Headspace](https://www.headspace.com/) | Meditation & mindfulness | **50% OFF** first year (~$34.99) — Nov 12 – Dec 4 | ✅ |
 | [Calm](https://www.calm.com/) | Sleep & meditation | **40-50% OFF** | ⏳ |
 
 ---
@@ -557,7 +559,7 @@ This repo is maintained annually. Archives will be preserved as `README_2026.md`
 
 ---
 
-**Last updated:** November 6, 2026
+**Last updated:** November 14, 2026
 
 **Disclaimer:** Prices and availability may change. Always verify on the vendor's official site before purchasing. This repo is community-maintained and not affiliated with any listed vendor.
 
