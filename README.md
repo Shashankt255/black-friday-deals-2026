@@ -1,6 +1,6 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2014%2C%202026-brightgreen)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2013%2C%202026-brightgreen)](#)
 [![Deals](https://img.shields.io/badge/Total%20Deals-300%2B-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
@@ -27,6 +27,10 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 
 ### 🆕 What's New (Updated Daily)
 
+- **Nov 13** — Epic Games Store Black Friday sales confirmed live: Epic Savings (Nov 12–26) + Premium Editions (Nov 17–Dec 1)
+- **Nov 13** — Skylum Luminar confirmed: $99 Desktop / $139 All Platforms / $159 Max (up to 77% OFF, through Nov 30)
+- **Nov 13** — Steam update: no Black Friday storewide sale in 2026 (Autumn Sale ended Oct 8); Winter Sale starts Dec 17
+- **Nov 13** — Date refinements: DataCamp (Nov 22–28), Udemy (Nov 25–28), Codecademy (Nov 21–Dec 28), WPForms (Nov 24–Dec 2)
 - **Nov 14** — 6 deals confirmed live: 1Password, FreshBooks, Headspace, Lenovo, Secretlab, Coursera Plus
 - **Nov 14** — Herman Miller sale expired (ended Nov 12), updated pricing and details
 - **Nov 6** — Initial launch with 300+ deals across 12 categories
@@ -185,11 +189,11 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | Product | Description | Deal | Status |
 |---------|-------------|------|--------|
 | [Flavio Copes](https://flaviocopes.com/black-friday/) | AI Workshop + 4 coding masterclasses | Sale opens **Nov 23** | ✅ |
-| [Udemy](https://www.udemy.com/) | Massive course catalog | Courses from **$9.99** (up to 85% off, ~Nov 19–29) | ⏳ |
+| [Udemy](https://www.udemy.com/) | Massive course catalog | Courses from **$9.99** (up to 85% off, ~Nov 25–28) | ⏳ |
 | [Coursera Plus](https://www.coursera.org/) | 7,000+ courses all-access | **40% OFF** annual — $239.40/yr (reg $399, ends Nov 30) | ✅ |
-| [DataCamp](https://www.datacamp.com/) | Data science, Python, R, SQL | **50-65% OFF** Premium annual (~Nov 22–28) | ⏳ |
+| [DataCamp](https://www.datacamp.com/) | Data science, Python, R, SQL | **50% OFF** Premium annual (Nov 22–28) | ⏳ |
 | [Educative.io](https://www.educative.io/) | Interactive text-based coding courses | **72% OFF** unlimited plans | ⏳ |
-| [Codecademy Pro](https://www.codecademy.com/) | Interactive coding lessons | **50% OFF** Pro Annual | ⏳ |
+| [Codecademy Pro](https://www.codecademy.com/) | Interactive coding lessons | **50% OFF** Pro Annual (Nov 21 – Dec 28) | ⏳ |
 | [Pluralsight](https://www.pluralsight.com/) | Tech skills (cloud, security, dev) | ~50% OFF | ⏳ |
 | [MasterClass](https://www.masterclass.com/) | Celebrity-taught classes | **50% OFF** | ⏳ |
 
@@ -287,7 +291,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [DotCamp](https://dotcamp.dev/) | WordPress plugin bundle | **50% OFF** — code `BF2026` (Nov 20 – Dec 2) | ✅ |
 | [SEOAnt](https://seoant.com/) | SEO optimization plugin | **50% OFF** all plans | ✅ |
 | [Elementor Pro](https://elementor.com/) | Drag-and-drop page builder | **Up to 65% OFF** | ⏳ |
-| [WPForms](https://wpforms.com/) | Form builder | **Up to 50% OFF** | ⏳ |
+| [WPForms](https://wpforms.com/) | Form builder | **Up to 70% OFF** all licenses (Nov 24 – Dec 2) | ⏳ |
 
 ### No-Code Platforms
 
@@ -309,10 +313,10 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | Product | Description | Deal | Status |
 |---------|-------------|------|--------|
 | [PlayStation Store](https://www.playstation.com/en-us/deals/) | Up to 75% off PS5/PS4 games | Live **Nov 4–30** | ✅ |
-| [Steam](https://store.steampowered.com/specials) | Autumn/Black Friday Sale | **Nov 26–30** | ✅ |
-| Xbox / PC Game Deals | Up to 75% off console, 85% off PC | Late Nov | ⏳ |
-| [GOG.com](https://www.gog.com/) | DRM-free PC games, up to 90% off | Late Nov | ⏳ |
-| [Epic Games Store](https://store.epicgames.com/) | Free games + store-wide sale + coupons | Late Nov | ⏳ |
+| [Steam](https://store.steampowered.com/specials) | Autumn Sale ended Oct 8; no BF storewide sale | **Winter Sale Dec 17 – Jan 4** | ℹ️ |
+| Xbox / PC Game Deals | Up to 75% off console, 85% off PC | Late Nov (~Nov 20–Dec 3) | ⏳ |
+| [GOG.com](https://www.gog.com/) | DRM-free PC games, up to 90% off | Late Nov (TBA) | ⏳ |
+| [Epic Games Store](https://store.epicgames.com/) | Epic Savings + BF Premium Editions | **Up to 80% OFF** — Epic Savings (Nov 12–26) + Premium Editions (Nov 17–Dec 1) | ✅ |
 
 ### Consoles & VR
 
@@ -466,7 +470,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | Product | Description | Deal | Status |
 |---------|-------------|------|--------|
 | [Topaz Labs](https://www.topazlabs.com/) | AI photo/video enhancement | ~43-60% OFF bundles | ⏳ |
-| [Skylum Luminar Neo](https://skylum.com/) | AI photo editor | **Up to 85% OFF** bundles | ⏳ |
+| [Skylum Luminar](https://skylum.com/) | AI photo editor (renamed from Luminar Neo) | **Up to 77% OFF** — $99 Desktop / $139 All Platforms / $159 Max (through Nov 30) | ✅ |
 | [Capture One Pro](https://www.captureone.com/) | RAW processor | ~20-30% OFF (Nov 20–27) | ⏳ |
 
 ## 🏋️ Health, Fitness & Lifestyle
@@ -561,7 +565,7 @@ This repo is maintained annually. Archives will be preserved as `README_2026.md`
 
 ---
 
-**Last updated:** November 14, 2026
+**Last updated:** November 13, 2026
 
 **Disclaimer:** Prices and availability may change. Always verify on the vendor's official site before purchasing. This repo is community-maintained and not affiliated with any listed vendor.
 
