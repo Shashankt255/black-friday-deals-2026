@@ -8,6 +8,8 @@
 
 The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 300+ verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
+> 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
+
 > ⭐ **Star this repo to help it trend on Black Friday!** Every star helps more people find these deals.
 
 **🗓️ Black Friday: November 27, 2026 | Cyber Monday: November 30, 2026**
