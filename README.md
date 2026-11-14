@@ -161,6 +161,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [nexos.ai](https://nexos.ai/) | AI business platform | **75% OFF** annual plan | ✅ |
 | [Jasper](https://www.jasper.ai/) | AI copywriting & marketing | Up to $1000 off annual | ⏳ |
 | [Grammarly](https://www.grammarly.com/) | AI writing assistant | ~50% OFF Pro plans | ⏳ |
+| [GetYouTubeTranscript](https://getyoutubetranscript.com/pricing) | YouTube transcripts: web app, Chrome extension, API | ♾️ **Lifetime $149 once** — 3,000 credits/month, first 100 buyers (Nov 14 – Dec 10) | ✅ |
 
 ### AI Image & Video
 
