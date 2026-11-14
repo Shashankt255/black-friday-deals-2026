@@ -252,6 +252,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Taskip](https://taskip.net/) | Project management & client portal | **70% OFF** annual ($11.70/mo, was $39) | ✅ |
 | [Paperform](https://paperform.co/) | Online forms & surveys | **50% OFF** 12 months — code `PFBF26` (Nov 16–30) | ✅ |
 | [EngageBay](https://www.engagebay.com/) | All-in-one CRM, marketing, sales | **40% OFF** all plans (Nov 9 – Dec 4) | ✅ |
+| [palmscreen](https://www.palmscreen.app/black-friday/) | Native Mac screen recorder with auto-zoom, editor and screenshots | **34% OFF** ($19 instead of $29, one-time) — code `BLACKWEEK` (Nov 23 – Nov 30) | ⏳ |
 
 ### Automation
 
