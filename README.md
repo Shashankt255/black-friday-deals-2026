@@ -118,6 +118,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [RoboForm](https://roboform.com/) | Cross-platform password manager | **64% OFF** annual | ✅ |
 | [Bitdefender](https://www.bitdefender.com/) | Antivirus + VPN + password manager | **Up to 78% OFF** — Premium from $12.99 | ✅ |
 | [1Password](https://1password.com/) | Password manager for teams & families | **~50% OFF** first year — Individual & Families (new customers) | ✅ |
+| [Scanify](https://scanify.to/pricing) | Check a link, file, QR code or IP before you open it: 95+ antivirus engines, redirects and a sandbox screenshot | **50% OFF** Lifetime Pro, $29 → $14.50 one-time — code `BLACKFRIDAY` (Nov 10 – Dec 9) | ✅ |
 
 ## ☁️ Cloud, Hosting & Domains
 
