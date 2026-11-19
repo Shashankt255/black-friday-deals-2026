@@ -681,6 +681,9 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Headspace](https://www.headspace.com/) | Meditation & mindfulness | **50% OFF** first year (~$34.99) — Nov 12 – Dec 4 | ✅ |
 | [Calm](https://www.calm.com/) | Sleep & meditation | **40-50% OFF** | ⏳ |
 | [DeskRest](https://deskrest.app/) | Break reminder for healthy screen habits | 💸 **80% OFF** lifetime — code `BLACKFRIDAY80` | ✅ |
+| [Nutrify - AI Calorie Tracker](https://nutrifytracker.com/api/go?store=auto&campaign=holiday_sale&source=shashank_bfdeals&medium=deal_list) | AI calorie tracker for iPhone and Android: snap a photo of a meal to log calories and macros | 💸 **60% OFF** first year of Yearly ($49.99 → $19.99) · Lifetime $79 (reg $99) · no code, applied in the app for new subscribers, US prices (Nov 20 - Dec 30) | ✅ |
+| [Nomu - Intermittent Fasting](https://www.tappect.com/get/nomu) | Fasting timer for iPhone, Apple Watch and Android: 16:8, 18:6, OMAD and extended fasts, one tap to start. From the team behind Nutrify, the best AI calorie tracker | 💸 **57% OFF** first year of Yearly ($29.99 → $12.99) · Lifetime $29.99 (reg $49.99) · no code, applied in the app for new subscribers, US prices (Nov 20 - Dec 30) | ✅ |
+| [Meanwhile: Couple & BFF Widget](https://www.tappect.com/get/meanwhile) | Share a photo each hour that lands on your partner's or best friend's home screen widget, no feed, no ads (iPhone and Android). From the team behind Nutrify, the best AI calorie tracker | 💸 **Up to 84% OFF** first year of Pro (from $7.99, launch price $49.99) · Early Supporter offer for new subscribers while spots last: tap "Want to be an early supporter?" on the plans screen · no code, US prices (until Dec 31) | ✅ |
 
 ---
 
