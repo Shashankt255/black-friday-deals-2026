@@ -138,6 +138,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Polypane](https://polypane.app/) | Responsive & accessibility testing browser for developers | **25% OFF** all plans (through Dec 1) | ✅ |
 | [Proxyman](https://proxyman.io/) | macOS HTTP debugging proxy for developers | **30% OFF** all plans — code `BF2026` (Nov 19 – Dec 3) | ✅ |
 | [TablePlus](https://tableplus.com/) | Cross-platform database GUI (MySQL, Postgres, Redis, etc.) | **25% OFF** — code `BLACK_FRIDAY_2026` | ✅ |
+| [Skillry](https://skillry.dev/pricing) | Curated creative Agent Skills for Claude Code, Codex & Cursor (slides, websites, images, launch videos) | 💸 ♾️ **50% OFF** Pro ($9.99 first mo / $79 first yr) + **$169** Lifetime (was $249) — auto-applied (Nov 19–30) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
@@ -295,6 +296,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Semrush](https://www.semrush.com/) | SEO & marketing platform | 14-day free trial on Semrush One | ✅ |
 | [Surfer SEO](https://surferseo.com/) | AI-powered on-page SEO | ~30% OFF annual (Nov 23 – Dec 1) | ⏳ |
 | [Scalenut](https://www.scalenut.com/) | AI SEO content platform | **65% OFF** annual plans — no code needed | ✅ |
+| [BizPeel](https://bizpeel.com/pricing) | Verified revenue, traffic, SEO & ad teardowns for 700+ startups (web + MCP for Claude Code & Cursor) | 💸 **50% OFF** first month on all plans + **20% OFF** first year — auto-applied (Nov 19–30) | ✅ |
 
 ### No BF Deal Expected
 
