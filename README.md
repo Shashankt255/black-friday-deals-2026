@@ -325,6 +325,14 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Pixara](https://www.pixara.ai/) | AI image, video & voiceover workspace (multi-model) | 💸 **70% OFF** PRO & Ultimate annual | ✅ |
 | [Krea3 AI](https://krea3.org/) | AI portraits, product shots & posters from prompts/photos | **40% OFF** first year (Starter $149 → $89.40) (Nov 1 – Nov 30) | ✅ |
 | [Krumzi](https://www.krumzi.com/pricing) | Editable flyers, posts, carousels & video from a one-line description | 💸 **60% OFF** first year of yearly plans, no code (Nov 20 – Dec 1) | ✅ |
+| [ImgVid](https://imgvid.net/black-friday) | Create images and short videos from a photo or text prompt. | 2× credits in the first month or year of a new subscription, plus 2× credits on credit packs for subscribers. Same prices, no code. Renewals return to standard credits. Ends Dec 1, 2026 at 23:59 PT. | ✅ |
+| [PicVideo](https://picvideo.net/black-friday) | Turn a photo or text prompt into a short video. | 2× credits in the first month or year of a new subscription, plus 2× credits on credit packs for subscribers. Same prices, no code. Renewals return to standard credits. Ends Dec 1, 2026 at 23:59 PT. | ✅ |
+| [Super Resolution](https://superresolution.pro/black-friday) | Upscale photos and illustrations by up to 16×. | 2× credits in the first month or year of a new subscription, plus 2× credits on credit packs for subscribers. Same prices, no code. Renewals return to standard credits. Ends Dec 1, 2026 at 23:59 PT. | ✅ |
+| [Text Animation](https://textanimation.org/black-friday) | Create animated text and export it in 1080p. | 2× credits for AI features as they launch: first month or year of a new subscription, plus 2× credit packs for subscribers. Same prices, no code. Renewals return to standard credits. Ends Dec 1, 2026 at 23:59 PT. | ✅ |
+| [Image to 3D AI](https://imageto3dai.org/black-friday) | Turn photos or a text prompt into GLB, OBJ or STL models. | 2× credits in the first month or year of a new subscription, plus 2× credits on credit packs for subscribers. Same prices, no code. Renewals return to standard credits. Ends Dec 1, 2026 at 23:59 PT. | ✅ |
+| [FixImage](https://fiximage.net/black-friday) | Retouch portraits and edit photos in a web browser. | 2× credits in the first month or year of a new subscription, plus 2× credits on credit packs for subscribers. Same prices, no code. Renewals return to standard credits. Ends Dec 1, 2026 at 23:59 PT. | ✅ |
+| [RemoveVideoBG.com](https://removevideobg.com/black-friday) | Remove or replace video backgrounds in a web browser. | 2× credits on credit packs and the first month of new monthly plans. New annual plans get 6 extra months of credits. Same prices, no code. Renewals return to standard credits. Ends Dec 1, 2026 at 23:59 PT. | ✅ |
+| [RemoveVideoBG.net](https://removevideobg.net/black-friday) | Remove video backgrounds and export a transparent clip. | 2× credits on credit packs and the first month of new monthly plans. New annual plans get 6 extra months of credits. Same prices, no code. Renewals return to standard credits. Ends Dec 1, 2026 at 23:59 PT. | ✅ |
 
 ### AI SEO & Marketing
 
@@ -401,6 +409,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Sip](https://sipapp.io/) | macOS color picker for designers & developers | **50% OFF** — code `BLACKFRIDAY26` (Nov 27 – Nov 29) | ✅ |
 | [Designmodo](https://designmodo.com/) | Email & web design platform (Postcards, Slides) | **Up to 40% OFF** — code `BLACKFRIDAY35` (through Dec 3) | ✅ |
 | [3DRoomDesign.ai](https://3droomdesign.ai/pricing) | AI interior design — draw floor plans, convert to 3D, visualize rooms | **50% bonus credits** on one-time packs + **up to 300 extra credits** first month for new subscribers, auto-applied (Nov 17–27) | ✅ |
+| [SciFig](https://scifig.ai/black-friday) | Web app for creating editable scientific figures and diagrams for papers and presentations. | **Extra 20% off** the first billing period of new subscriptions, eligible upgrades and credit packs. Auto-applied. Starter annual: $100 → $80 the first year, then $100/year. Ends Dec 1, 2026 at 23:59 PT. | ✅ |
 
 ### SEO & Marketing
 
