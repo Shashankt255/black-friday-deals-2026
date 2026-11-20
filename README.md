@@ -639,6 +639,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Topaz Labs](https://www.topazlabs.com/sale) | AI photo/video enhancement | **Up to 67% OFF** bundles, 15% OFF annual single apps — Studio $299/yr (reg $499), existing users all apps $99/yr (through Dec 1) | ✅ |
 | [Skylum Luminar](https://skylum.com/) | AI photo editor (renamed from Luminar Neo) | **Up to 77% OFF** — $99 Desktop / $139 All Platforms / $159 Max (through Nov 30) | ✅ |
 | [Capture One Pro](https://www.captureone.com/) | RAW processor | ~20-30% OFF (Nov 20–27) | ⏳ |
+| [Oil Studio](https://studio.oiloil.org/en/) | Native Apple Silicon (macOS 15+) screen recorder & video editor with click auto-zoom, local on-device Whisper transcript cutting, and a built-in CLI + Agent Skill for Claude Code / Codex | **20% OFF** — extra 20% off $39 launch price → $31.20 (reg $49, one-time purchase for 2 Macs, no subscription) — code `BFCM2026` (Nov 20 – Dec 2, 2026) | ✅ |
 
 ## 🏋️ Health, Fitness & Lifestyle
 
