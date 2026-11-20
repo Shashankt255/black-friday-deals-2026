@@ -375,6 +375,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Lineicons](https://lineicons.com/) | 30,000+ vector icons in 10 styles | **40% OFF** — code `BLFCM2026` (Nov 18 – Dec 2) | ✅ |
 | [Sip](https://sipapp.io/) | macOS color picker for designers & developers | **50% OFF** — code `BLACKFRIDAY26` (Nov 27 – Nov 29) | ✅ |
 | [Designmodo](https://designmodo.com/) | Email & web design platform (Postcards, Slides) | **Up to 40% OFF** — code `BLACKFRIDAY35` (through Dec 3) | ✅ |
+| [3DRoomDesign.ai](https://3droomdesign.ai/pricing) | AI-powered home and interior design web app for drawing floor plans, converting them to 3D and visualizing rooms. | **50% bonus credits** on non-expiring one-time packs (~33% lower cost per credit; $9.90: 50 → 75 credits), plus **up to 300 extra credits** in the first month for new or returning subscribers without an active plan. Same prices, auto-applied, one redemption per category per account; both can be combined. (Nov 17–27, 2026; ends 11:59 PM PT) | ✅ |
 
 ### SEO & Marketing
 
