@@ -325,6 +325,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Pixara](https://www.pixara.ai/) | AI image, video & voiceover workspace (multi-model) | 💸 **70% OFF** PRO & Ultimate annual | ✅ |
 | [Krea3 AI](https://krea3.org/) | AI portraits, product shots & posters from prompts/photos | **40% OFF** first year (Starter $149 → $89.40) (Nov 1 – Nov 30) | ✅ |
 | [Krumzi](https://www.krumzi.com/pricing) | Editable flyers, posts, carousels & video from a one-line description | 💸 **60% OFF** first year of yearly plans, no code (Nov 20 – Dec 1) | ✅ |
+| [Clarpex AI](https://clarpex.ai/pricing) | AI photo fixer: unblur, upscale to 4K/8K, restore & colorize old photos, remove watermarks (web) | 💸 **50% OFF** first month of monthly plans, **30% OFF** first year of yearly plans, no code (Nov 20 – Dec 1) | ✅ |
 
 ### AI SEO & Marketing
 
