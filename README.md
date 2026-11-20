@@ -535,6 +535,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | Product | Description | Deal | Status |
 |---------|-------------|------|--------|
 | [WP Rocket](https://wp-rocket.me/) | #1 caching & performance plugin | **40% OFF** 1-yr — code `black-friday`; **60% OFF** 3-yr — code `black-friday-3y` (through Nov 28) | ✅ |
+| [MilliCache Pro](https://www.millipress.com/millicache-pro/?utm_source=github-bfd2026&utm_medium=referral&utm_campaign=bf26) | Full-page caching for WordPress in memory and at the edge, clears only what changed | **25% OFF** first year, code `BF26` auto-applied at checkout (Nov 24 – Dec 1) | ✅ |
 | [Rank Math Pro](https://rankmath.com/) | SEO plugin with AI features | **36-55% OFF** Pro/Business/Agency (Nov 13 – Dec 3) | ✅ |
 | [WPManageNinja](https://wpmanageninja.com/) | FluentForms, FluentCRM, Ninja Tables | **Up to 40% OFF** | ✅ |
 | [Bit Apps](https://www.bitapps.pro/) | Premium WordPress plugin suite | **Up to 74% OFF** | ✅ |
