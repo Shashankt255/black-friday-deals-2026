@@ -325,7 +325,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Pixara](https://www.pixara.ai/) | AI image, video & voiceover workspace (multi-model) | 💸 **70% OFF** PRO & Ultimate annual | ✅ |
 | [Krea3 AI](https://krea3.org/) | AI portraits, product shots & posters from prompts/photos | **40% OFF** first year (Starter $149 → $89.40) (Nov 1 – Nov 30) | ✅ |
 | [Krumzi](https://www.krumzi.com/pricing) | Editable flyers, posts, carousels & video from a one-line description | 💸 **60% OFF** first year of yearly plans, no code (Nov 20 – Dec 1) | ✅ |
-| [YIX](https://yix.ai/pricing) | Create and edit images and generate videos from text or photos in your browser | **50% OFF** first month on monthly plans, auto-applied (Nov 20, 2026 00:00 UTC to Dec 1, 2026 00:00 UTC (exclusive)) · Starter $9.95 → $19.90/mo, Pro $24.95 → $49.90/mo, Max $49.95 → $99.90/mo (USD) | ✅ |
+| [YIX](https://yix.ai/pricing) | Create and edit images and generate videos from text or photos in your browser | **50% OFF** first month on monthly plans, auto-applied (Nov 20, 2026 00:00 UTC to Dec 1, 2026 00:00 UTC (exclusive)) · Starter $19.90 → $9.95/mo, Pro $49.90 → $24.95/mo, Max $99.90 → $49.95/mo (USD) | ✅ |
 
 ### AI SEO & Marketing
 
