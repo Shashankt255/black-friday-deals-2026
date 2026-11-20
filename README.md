@@ -143,6 +143,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Skillry](https://skillry.dev/pricing) | Curated creative Agent Skills for Claude Code, Codex & Cursor | 💸 ♾️ **50% OFF** Pro ($9.99 first mo / $79 first yr) + **$169** Lifetime (was $249) — auto-applied (Nov 19–30) | ✅ |
 | [Unspam](https://unspam.email/) | Email spam checker & deliverability tests | **35% OFF** — code `BLACKFRIDAY35` (through Dec 1) | ✅ |
 | [GTmetrix](https://gtmetrix.com/) | Website performance testing & monitoring | **40% OFF** all plans — code `BF2026` (through Dec 2) | ✅ |
+| [Devkito](https://devkito.com/pricing) | 122 offline developer tools in one desktop app for macOS, Windows & Linux (JSON, JWT, regex, Base64, HTTP client, etc.) | 💸 **50% OFF** one-time licence ($10 → $5) — code `BF2026` (Nov 20 – Dec 2) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
