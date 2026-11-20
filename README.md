@@ -358,6 +358,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [inReels](https://www.inreels.ai/) | AI ad creative platform: UGC videos, static ads, product videos | 💸 **50% OFF** all yearly plans — code `BLACKFRIDAY2026` (through Dec 1) | ✅ |
 | [Vinaa](https://www.vinaa.ai/) | AI video editor with auto-caption, translate & lip-sync | **45% OFF** lifetime, no code (until Nov 30) | ✅ |
 | [Cutfac](https://cutfac.com/) | Create & refine short videos with Claude Code or Codex on Mac | **40% OFF** one-time — code `BF2026` (through Dec 31) | ✅ |
+| [quso.ai](https://quso.ai/pricing?utm_source=shashankt255&utm_medium=referral&utm_campaign=bf26_deal_lists) | AI video repurposing: long videos into captioned short clips, then schedule & auto-post them | 💸 **50% OFF** yearly plans, kept every renewal — no code (Essential $468 → $234/yr, Growth $588 → $294/yr) (Nov 20 – Dec 1) | ✅ |
 
 ### AI SEO & Marketing
 
