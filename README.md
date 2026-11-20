@@ -304,6 +304,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Higgsfield](https://higgsfield.ai/) | AI video generation (Ultra plan) | **60% OFF** annual — $50/mo (reg $129) | ✅ |
 | [Colossyan](https://www.colossyan.com/) | AI video generation with realistic avatars | **40% OFF** yearly — code `BLACKFRIDAY40` | ✅ |
 | [Runway](https://runwayml.com/) | AI video generation & editing | **25% OFF** annual plans | ✅ |
+| [Effect Video](https://effect.video/black-friday) | AI photo-to-video effects: turn photos into short cinematic videos with 29+ ready-made templates | **+50% bonus credits** on credit packs and annual plans — auto-applied, no code needed (Nov 24 – Dec 1) | ✅ |
 | [TranslateManga](https://translatemanga.net/) | AI manga/manhwa/webtoon translator — text inside original speech bubbles (web + Chrome extension) | **40% OFF** plans from $6/mo, no code (billed yearly, first year; Nov 20 – Dec 1) | ✅ |
 
 ### AI SEO & Marketing
