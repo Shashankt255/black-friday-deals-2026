@@ -222,6 +222,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Internxt](https://internxt.com/) | Privacy-first E2E encrypted cloud storage | 💸 **87% OFF** — from €1.29/mo, Lifetime from €247 (through Dec 3) | ✅ |
 | [Standard Notes](https://standardnotes.com/) | E2E encrypted notes app (open source) | 💸 **50% OFF** annual plans | ✅ |
 | [ExposureDrift](https://exposuredrift.com) | Continuous attack surface management: JS secret scanning, outside-in API inventory, exposure monitoring | 💸 **50% OFF** a full year + 15-day risk-free trial — early-user pre-launch offer, launches Dec 14 | ✅ |
+| [SecretShot](https://secretshot.zorrinapps.com/#black-friday) | Keep private photos and videos in a PIN-protected vault that looks like a working calculator, currency converter, or puzzle. | **50% OFF** Pro Lifetime launch offer (US $29.99 → $14.99) — code `BFCM26` (through Dec 1, 2026 PT; local prices and availability may vary) | ✅ |
 
 ## ☁️ Cloud, Hosting & Domains
 
@@ -639,6 +640,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Topaz Labs](https://www.topazlabs.com/sale) | AI photo/video enhancement | **Up to 67% OFF** bundles, 15% OFF annual single apps — Studio $299/yr (reg $499), existing users all apps $99/yr (through Dec 1) | ✅ |
 | [Skylum Luminar](https://skylum.com/) | AI photo editor (renamed from Luminar Neo) | **Up to 77% OFF** — $99 Desktop / $139 All Platforms / $159 Max (through Nov 30) | ✅ |
 | [Capture One Pro](https://www.captureone.com/) | RAW processor | ~20-30% OFF (Nov 20–27) | ⏳ |
+| [Deletti](https://deletti.app/#black-friday) | A not-boring way to free up space on your iPhone. Start with your biggest videos and photos, then swipe to keep or trash them. | **50% OFF** Single Lifetime launch offer (US $17.99 → $8.99) — code `BFCM26` (through Dec 1, 2026 PT; local prices and availability may vary) | ✅ |
 
 ## 🏋️ Health, Fitness & Lifestyle
 
