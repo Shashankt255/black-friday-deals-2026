@@ -593,6 +593,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Pipedrive](https://www.pipedrive.com/) | Sales CRM & pipeline | **35% OFF** annual | ✅ |
 | [HubSpot](https://www.hubspot.com/) | CRM, marketing, sales | **Up to 45-50% OFF** annual | ⏳ |
 | [Zoho CRM](https://www.zoho.com/) | Small-mid business CRM | **Up to 25% OFF** annual | ⏳ |
+| [Sabi](https://meetsabi.com/pages/blackfriday?utm_source=github&utm_medium=deal-list&utm_campaign=blackfriday2026&utm_content=shashankt255) | AI employee you text: email, calendar, lead follow-up, social posts | 💸 **50% OFF** 6 months of Sabi Pro ($995 → $495), no code (Nov 20 – Nov 30) | ✅ |
 
 ### E-Signature
 
