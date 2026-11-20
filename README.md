@@ -174,6 +174,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Mailflare](https://mailflare.co/) | Self-hosted email & calendar on Cloudflare or Docker | **40% OFF** — code `BF2026` (Nov 20 – Dec 1) | ✅ |
 | [Pirsch Analytics](https://pirsch.io/) | Privacy-friendly GDPR-compliant web analytics | **20% OFF** first year — code `BLACKFRIDAY26` (through Dec 31) | ✅ |
 | [Typeform](https://www.typeform.com/) | Conversational forms, surveys and quizzes | **20% OFF** annual plans | ✅ |
+| [Appfigures](https://appfigures.com/account/upgrade?utm_source=github&utm_medium=deal-list&utm_campaign=bf26&utm_content=shashankt255&p=BF2650) | ASO and App Intelligence for the App Store and Google Play: competitor keywords, custom product pages, and download and revenue estimates. | **50% OFF** monthly or annual plans for 12 months, code `BF2650` (Nov 23 - Nov 30) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
