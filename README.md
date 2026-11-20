@@ -291,7 +291,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Keeper Security](https://www.keepersecurity.com/) | Password manager & encrypted vault | **40% OFF** personal plans (through Dec 1) | ✅ |
 | [Malwarebytes](https://www.malwarebytes.com/) | Anti-malware & endpoint protection | **Up to 50% OFF** Premium & Ultimate plans | ✅ |
 | [ClipAudit](https://clipaudit.app/) | macOS clipboard manager that detects 700+ API keys & secrets | **40% OFF** $17.40 — code `BLACKFRIDAY2026` (Nov 27 – Dec 1) | ✅ |
-| [Scanify](https://scanify.app/) | Link, file & QR code security scanner | 💸 **50% OFF** Lifetime | ✅ |
+| [Scanify](https://scanify.to/pricing) | Link, file, QR code & IP security scanner | 💸 **95% OFF** first month: Pro for $1, then $20/mo, no code needed. Or **50% OFF** Lifetime ($29 → $14.50), code `BLACKFRIDAY` (through Dec 9) | ✅ |
 | [Safe Screen Share](https://safescreenshare.com/) | Browser extension that auto-blurs API keys & emails before screen sharing | **40% OFF** Lifetime — code `BF2026` (Nov 13 – Dec 2) | ✅ |
 | [Internxt](https://internxt.com/) | Privacy-first E2E encrypted cloud storage | 💸 **87% OFF** — from €1.29/mo, Lifetime from €247 (through Dec 3) | ✅ |
 | [Standard Notes](https://standardnotes.com/) | E2E encrypted notes app (open source) | 💸 **50% OFF** annual plans | ✅ |
