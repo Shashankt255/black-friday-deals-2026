@@ -442,6 +442,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [YIX](https://yix.ai/pricing) | Create and edit images and generate videos from text or photos | 💸 **50% OFF** first month on monthly plans, auto-applied — Starter $19.90 → $9.95/mo, Pro $49.90 → $24.95/mo (Nov 20 – Dec 1) | ✅ |
 | [InVideo](https://invideo.io/) | AI video creation platform | 💸 **50% OFF** | ✅ |
 | [Vogoo AI](https://vogoo.ai/black-friday) | AI avatar video generation for marketing & sales | **40% OFF** Pro annual — $89.64/yr | ✅ |
+| [Motionflare](https://motionflare.ai/pricing) | Turns your website URL into an on-brand marketing video | 💸 **50% OFF** the first month of Pro or Max ($29 → $14.50, $99 → $49.50), no code (Nov 21 – Dec 1) | ✅ |
 
 ### AI SEO & Marketing
 
