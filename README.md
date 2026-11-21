@@ -866,6 +866,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Oil Studio](https://studio.oiloil.org/en/) | Native macOS screen recorder & video editor with click auto-zoom and local Whisper transcripts | **20% OFF** launch price ($39 → $31.20, reg $49, one-time) — code `BFCM2026` (Nov 20 – Dec 2) | ✅ |
 | [Deletti](https://deletti.app/) | Free up iPhone space — start with biggest videos/photos, swipe to keep or trash | **50% OFF** Lifetime ($17.99 → $8.99) — code `BFCM26` (through Dec 1) | ✅ |
 | [ZxClip](https://zxclip.com/) | macOS AI video editor — edit video by editing the transcript, filler word removal, voice cloning | 💸 ♾️ **70% OFF** Lifetime ($80 → $24) (through Dec 1) | ✅ |
+| [BatchMark](https://batchmark.dispatchcat.com/holiday-sale/) | iPhone/iPad photo app — batch watermark up to 100 photos, art frames, Color Walk cards and Photo Stories, all on-device | 💸 ♾️ **50% OFF** Lifetime ($79.99 → $39.99), auto-applied, no code (Nov 15 – Dec 25, 2026) | ✅ |
 
 ## 🏋️ Health, Fitness & Lifestyle
 
