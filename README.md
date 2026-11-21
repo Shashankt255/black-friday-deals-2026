@@ -453,6 +453,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [BizPeel](https://bizpeel.com/pricing) | Verified revenue, traffic, SEO & ad teardowns for 700+ startups (web + MCP) | 💸 **50% OFF** first month + **20% OFF** first year — auto-applied (Nov 19–30) | ✅ |
 | [AdCreative.ai](https://www.adcreative.ai/) | AI ad creative generation platform | 💸 **50% OFF** all annual plans — code `BLACKFRIDAY50` | ✅ |
 | [RightBlogger](https://rightblogger.com/pricing?offer=bf2026) | AI blog writer that publishes to WordPress and other CMSs and flags old posts to fix from Search Console | 💸 **50% OFF** every annual plan for life, Solo $588 → $294/yr, Pro $828 → $414/yr, no code needed (Nov 17 – Dec 1) | ✅ |
+| [Directory Ideas](https://directoryideas.ai/) | Finds directory website ideas people actually search for (real Google search numbers), then first listings, outreach emails and a 7-day launch plan | ♾️ **33% OFF** lifetime ($89 → $59) — no code needed (Nov 21 – Nov 30) | ✅ |
 
 ### No BF Deal Expected
 
