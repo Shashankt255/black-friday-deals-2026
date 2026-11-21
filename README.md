@@ -599,6 +599,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Spacepal](https://getspacepal.com/black-friday/) | Names, colors & previews for Mac desktops (Spaces) | **20% OFF** $9.99 → $7.99 (Nov 27 – Dec 1) | ✅ |
 | [SupaSidebar](https://supasidebar.com/) | macOS sidebar with AI-powered file search & quick actions | 💸 ♾️ **50% OFF** Lifetime $79 → $39.50 — code `SIDEBARBF50` | ✅ |
 | [WhatPulse](https://whatpulse.org/) | Input analytics: keyboard, mouse & network stats | **35% OFF** all plans — code `BFCM2026` (Nov 26 – Dec 12) | ✅ |
+| [Unraster](https://unraster.ai/pricing) | Turn slide, chart and diagram screenshots into editable PowerPoint or SVG | **45% OFF** the 150-credit pack ($79.90 → $43.95) — code `BLACKFRIDAY45` (through Dec 1) | ✅ |
 
 ### Automation
 
