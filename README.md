@@ -662,6 +662,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [WP User Frontend Pro](https://wedevs.com/wp-user-frontend-pro/pricing/) | Frontend post submission & membership for WordPress | 💸 **Up to 50% OFF** — Lifetime $398 | ✅ |
 | [FormNX](https://formnx.com/) | No-code WordPress form builder | 💸 **50% OFF** | ✅ |
 | [MilliCache Pro](https://www.millipress.com/millicache-pro/) | Full-page caching for WordPress in memory and at the edge, clears only what changed | **25% OFF** first year — code `BF26` (Nov 24 – Dec 1) | ✅ |
+| [WPOS](https://wpos.ai/black-friday/?utm_source=shashankt255&utm_medium=deals&utm_campaign=bf2026) | AI agent inside wp-admin for WordPress sites on any host (Gutenberg, Elementor, Divi) | 💸 **50% OFF** site licences for 2 months ($25 → $12.50/site/mo) + 15,000 free credits for new accounts — code `FRIDAY50` (Nov 11 – Nov 30) | ✅ |
 
 ### No-Code Platforms
 
