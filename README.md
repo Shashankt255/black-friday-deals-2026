@@ -212,6 +212,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Aba Search and Replace](https://www.abareplace.com/) | Find & replace across files with regex support (Windows) | 💸 ♾️ **50% OFF** Lifetime $30 → $15 — code `Sale2026` | ✅ |
 | [Appfigures](https://appfigures.com/) | ASO & app intelligence for App Store & Google Play: competitor keywords, download & revenue estimates | 💸 **50% OFF** monthly or annual plans for 12 months — code `BF2650` (Nov 23 – Nov 30) | ✅ |
 | [LurkAPI](https://lurkapi.com/pricing) | Social media data API and MCP server (public posts, ads and profiles from 16 platforms) | **30% OFF** any credit pack — code `BLACKFRIDAY30` (Nov 20 – Nov 30) | ✅ |
+| [SerpWrap](https://serpwrap.com) | SERP API returning structured JSON from live search results; pay-once credits, no subscription | 💸 **40% OFF** every credit pack, code `BLACKF40` (through Nov 30) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
@@ -813,6 +814,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [HubSpot](https://www.hubspot.com/) | CRM, marketing, sales | **Up to 45-50% OFF** annual | ⏳ |
 | [Zoho CRM](https://www.zoho.com/) | Small-mid business CRM | **Up to 25% OFF** annual | ⏳ |
 | [Sabi](https://meetsabi.com/pages/blackfriday) | AI assistant you text — email, calendar, lead follow-up, social posts | 💸 **50% OFF** 6 months Pro ($995 → $495), no code (Nov 20 – Nov 30) | ✅ |
+| [Pitchlist](https://pitchlist.serpwrap.com) | Local business leads by city and type with phone, address and rating (CSV, XLSX, JSON); Claude Code integration support; pay once | 💸 **60% OFF** every lead pack, code `BLACKFRIDAY60` (through Nov 30) | ✅ |
 
 ### E-Signature
 
