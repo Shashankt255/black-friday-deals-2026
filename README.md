@@ -255,6 +255,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [PwnedLabs](https://pwnedlabs.io/) | Cloud security bootcamps & lab subscriptions (ACRTP, MCRTP, GCRTP) | **25% OFF** bootcamps & subscriptions — code `BLACKFRIDAY25` (through Nov 30) | ✅ |
 | [Red Team LLC](https://redteam.vip/) | Physical entry, RFID, social engineering & recon courses | **Founding Member $99/course** (reg $199–$399), all 10 courses $799 (through Nov 30) | ✅ |
 | [KSEC Labs](https://labs.ksec.co.uk/black-friday-sale/) | RFID tools, lock picking kits & pentest hardware 🇬🇧 | **Up to £300 off**, 3-for-2 RFID cards (Nov 23–30) | ✅ |
+| [8kSec Academy](https://academy.8ksec.io/) | On-demand mobile & AI security training (CAISR, CMSE, OMSE, CISR, CASR) with hands-on labs | **15% OFF** all on-demand courses — code `8KSECBLACKFRIDAY` (Nov 20 – Dec 4, 2026) | ✅ |
 
 ### VPN Services
 
