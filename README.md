@@ -212,6 +212,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Aba Search and Replace](https://www.abareplace.com/) | Find & replace across files with regex support (Windows) | 💸 ♾️ **50% OFF** Lifetime $30 → $15 — code `Sale2026` | ✅ |
 | [Appfigures](https://appfigures.com/) | ASO & app intelligence for App Store & Google Play: competitor keywords, download & revenue estimates | 💸 **50% OFF** monthly or annual plans for 12 months — code `BF2650` (Nov 23 – Nov 30) | ✅ |
 | [LurkAPI](https://lurkapi.com/pricing) | Social media data API and MCP server (public posts, ads and profiles from 16 platforms) | **30% OFF** any credit pack — code `BLACKFRIDAY30` (Nov 20 – Nov 30) | ✅ |
+| [SaaScaffold](https://saascaffold.com/pricing) | Agent-first TypeScript SaaS starter for Cloudflare Workers with 40 coding-agent runbooks, 4 payment & 4 AI providers | 💸 ♾️ **50% OFF** one-time license ($99 → $49), auto-applied (Nov 21 – Dec 6) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
