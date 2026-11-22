@@ -612,6 +612,9 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [SupaSidebar](https://supasidebar.com/) | macOS sidebar with AI-powered file search & quick actions | 💸 ♾️ **50% OFF** Lifetime $79 → $39.50 — code `SIDEBARBF50` | ✅ |
 | [WhatPulse](https://whatpulse.org/) | Input analytics: keyboard, mouse & network stats | **35% OFF** all plans — code `BFCM2026` (Nov 26 – Dec 12) | ✅ |
 | [Unraster](https://unraster.ai/pricing) | Turn slide, chart and diagram screenshots into editable PowerPoint or SVG | **45% OFF** the 150-credit pack ($79.90 → $43.95) — code `BLACKFRIDAY45` (through Dec 1) | ✅ |
+| [Itemlist](https://www.getitemlist.app/black-friday/) | Home inventory for iPhone and iPad | 💸 ♾️ **50% OFF** lifetime PRO: $29.99, down from $59.99, no code needed (Nov 18 – Dec 4, 2026) | ✅ |
+| [QRGenie](https://qrgenie.app/black-friday) | QR code generator for iPhone, iPad and Mac | 💸 ♾️ **50% OFF** lifetime: $9.99, down from $19.99, no code needed (Nov 18 – Dec 4, 2026) | ✅ |
+| [BarcodeCraft](https://www.barcodecraft.com/black-friday) | Barcode generator for iPhone and iPad | 💸 ♾️ **50% OFF** lifetime: $4.99, down from $9.99, no code needed (Nov 18 – Dec 4, 2026) | ✅ |
 
 ### Automation
 
