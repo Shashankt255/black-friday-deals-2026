@@ -229,6 +229,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [KloudUtils](https://kloudutils.com/) | 55+ developer utilities in one app | **38% OFF** ($79 → $49) — code `BFCM2026_PRO` | ✅ |
 | [Captureze](https://captureze.com/) | Scheduled website screenshots with visual diff tracking | 💸 **Up to 50% OFF** all plans | ✅ |
 | [Warplet](https://warplet.app/) | Connect hosted AI to local MCP servers | **40% OFF** — code `BLACKFRIDAY2026` | ✅ |
+| [OmniForge Launch Suite](https://omnipulse-x402.appwrite.network/checkout?utm_source=github&utm_campaign=shashankt255-bf) | 6-phase web security (VibeShield), SPF/DMARC email DNS (InboxShield) & /llms.txt audit suite | 💸 ♾️ **82% OFF** One-Time Suite ($29 → $5) & Single Apps ($9 → $2), no code needed (through Dec 2) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
