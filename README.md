@@ -496,6 +496,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [CapCut](https://www.capcut.com/tools/capcut-black-friday-sale) | Video editor with AI captions, background removal & templates for short-form content | 💸 **90% OFF** first year of Pro | ✅ |
 | [ClipUGC](https://clipugc.com/black-friday) | UGC-style videos for apps with AI influencers — paste your app link + screen recording | **50% OFF** any plan for first 2 months | ✅ |
 | [Seedance AI](https://www.seeddance.io/pricing) | AI video & image generator with Seedance 2.5, Kling, Veo, Hailuo & more in one workspace | **50% OFF** first year | ✅ |
+| [Narva](https://narva.app/#pricing) | Topic, script or voiceover in, finished faceless YouTube video out | **30% OFF** the first month of any plan - code `NARVA30` (Nov 23 - Nov 30) | ✅ |
 
 ### AI SEO & Marketing
 
