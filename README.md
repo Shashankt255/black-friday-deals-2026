@@ -805,6 +805,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [MilliCache Pro](https://www.millipress.com/millicache-pro/) | Full-page caching for WordPress in memory and at the edge, clears only what changed | **25% OFF** first year — code `BF26` (Nov 24 – Dec 1) | ✅ |
 | [WPOS](https://wpos.ai/black-friday/) | AI agent inside wp-admin for WordPress sites on any host (Gutenberg, Elementor, Divi) | 💸 **50% OFF** site licences for 2 months ($25 → $12.50/site/mo) + 15,000 free credits for new accounts — code `FRIDAY50` (Nov 11 – Nov 30) | ✅ |
 | [Reviso](https://getreviso.io/pricing/) | Client feedback for WordPress: clients pin comments on the live page, resolve in Bricks/Elementor/Gutenberg | **25% OFF** first year — code `BLACKFRIDAY25` (Pro $89 → $66.75/yr, Agency $279 → $209.25/yr) | ✅ |
+| [Clothsy AI](https://clothsyai.fabricvton.com/pricing) | Virtual try-on for WooCommerce and Shopify fashion stores | 💸 **50% OFF** first month of any monthly plan, no code (Nov 23 – Nov 27) | ✅ |
 
 ### No-Code Platforms
 
