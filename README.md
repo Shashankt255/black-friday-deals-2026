@@ -528,6 +528,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [EarlyLore](https://earlylore.com/pricing) | AI product discovery & competitive intelligence across 540K+ products, website traffic histories, Design DNA & 14 MCP tools | **25% OFF** Annual Year 1 (Pro ~~$144~~ $108/yr [$9/mo], Max ~~$384~~ $288/yr [$24/mo]; 1-Year Pass eligible; renews at $144/$384) — auto-applied or code `BF2026` (Nov 24 – Nov 30, 2026 PT) | ✅ |
 | [CiteReady](https://citeready-checker.appwrite.network/) | AI search visibility auditor — check how AI search engines cite your content | ♾️ **83% OFF** Lifetime $12 → $2 | ✅ |
 | [Tantra](https://deals.usetantra.com/) | AI outreach tool for email, LinkedIn & WhatsApp campaigns | **50% OFF for life** — code `TANTRA50` | ✅ |
+| [BacklinkGenie](https://backlinkgenie.com/pricing/) | AI link-building outreach agent: finds posts where you belong, pitches editors from a managed mailbox, follows up and checks links stay live (web + MCP) | 💸 **30% OFF** monthly or **50% OFF** yearly for as long as you stay subscribed (Starter $99 → $69.30/mo or $990 → $495/yr) — auto-applied, codes `BFCM30` / `BFCM50` (Nov 24 – Dec 31, 2026) | ✅ |
 
 ### No BF Deal Expected
 
