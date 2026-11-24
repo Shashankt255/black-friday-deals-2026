@@ -489,6 +489,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Colossyan](https://www.colossyan.com/) | AI video generation with realistic avatars | **40% OFF** yearly — code `BLACKFRIDAY40` | ✅ |
 | [Runway](https://runwayml.com/) | AI video generation & editing | **25% OFF** annual plans | ✅ |
 | [Effect Video](https://effect.video/black-friday) | AI photo-to-video effects: turn photos into cinematic videos with 29+ templates | **+50% bonus credits** on credit packs and annual plans, auto-applied (Nov 24 – Dec 1) | ✅ |
+| [Kollab](https://kollab.im/black-friday) | Shared AI workspace for teams: all major models, 1,000+ apps, unlimited seats, one credit pool | **Annual Pro $168/yr** (reg $216), **Max $1,680/yr** (reg $2,160), plus **15% OFF** all credit packs — auto-applied, no code needed (until Nov 30) | ✅ |
 | [TranslateManga](https://translatemanga.net/) | AI manga/manhwa/webtoon translator — text inside original speech bubbles (web + Chrome extension) | **40% OFF** plans from $6/mo, no code (billed yearly, first year; Nov 20 – Dec 1) | ✅ |
 | [Pixara](https://www.pixara.ai/) | AI image, video & voiceover workspace (multi-model) | 💸 **70% OFF** PRO & Ultimate annual | ✅ |
 | [Krea3 AI](https://krea3.org/) | AI portraits, product shots & posters from prompts/photos | **40% OFF** first year (Starter $149 → $89.40) (Nov 1 – Nov 30) | ✅ |
