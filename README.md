@@ -706,6 +706,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Jotform](https://www.jotform.com/pricing/) | Drag-and-drop form builder with AI agents for registrations, orders & payments | 💸 **60% OFF** annual Bronze, Silver & Gold plans | ✅ |
 | [Sensei](https://cindori.com/sensei) | System performance monitoring for the Mac | 💸 ♾️ **50% OFF** $59 → $29.50, no code needed (Nov 24 – Dec 1) | ✅ |
 | [Dypt](https://dypt.app/promo) | Task planner that breaks big tasks into steps, AI suggests missing ones, CLI for coding agents | **50% OFF** first year annual — code `BLACKFRIDAY` (Nov 20 – Nov 30) | ✅ |
+| [BetterDisplay](https://betterdisplay.pro/) | Control scaling, brightness and virtual screens from the Mac menu bar. | ♾️ **33% OFF** Pro (one-time purchase with at least 2 years of free updates) — code `BFCM2026` (Nov 26 – Dec 1, 2026) | ✅ |
 
 ### Automation
 
