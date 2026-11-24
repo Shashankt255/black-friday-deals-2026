@@ -248,6 +248,8 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [TanStarter](https://tanstarter.dev/) | SaaS boilerplate for Cloudflare Workers with TanStack | ♾️ **50% OFF** Lifetime $199 → $99 — code `2026-BLACKFRIDAY` | ✅ |
 | [CozyCommerce](https://cozycommerce.dev/pricing) | Next.js + Tailwind eCommerce kit with 100+ components | **50% OFF** — code `BLFCM2026` | ✅ |
 | [GrayGrids](https://graygrids.com/) | Developer templates, UI kits, boilerplates for Bootstrap, Tailwind & React | **Up to 80% OFF** — code `BLFCM2026` (Nov 16 – Dec 1) | ✅ |
+| [Grai](https://grai.page) | Offline cadence gate that flags AI-writing tells in drafts before clients do | **30% OFF** first billing cycle, code `BF2026` (Nov 24 to Nov 30) | ✅ |
+
 
 ## 🔒 Cybersecurity & Privacy
 
