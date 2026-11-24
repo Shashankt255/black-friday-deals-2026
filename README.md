@@ -917,6 +917,8 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [FreshBooks](https://www.freshbooks.com/) | Freelancer accounting | **80% OFF** 4 months — Lite $4.60/mo, Plus $8.60/mo, Premium $14/mo (Oct 14 – Dec 31) | ✅ |
 | [Invoice Factory](https://invoicefactory.app/) | Invoicing for freelancers & small businesses | 💸 **50% OFF** ($179.99 → $89.99) | ✅ |
 | [Invoice Mama](https://invoicemama.com/pricing) | AI invoicing for tradespeople, freelancers & small businesses | 💸 **50% OFF** every paid plan, auto-applied (through Dec 1) | ✅ |
+| [ShiftApp](https://shiftapp.com/blackfriday) | Employee scheduling software and app. Plan shifts, handle time off requests. | 💸 **88% OFF** every paid for **8 months** (through Dec 12) | ✅ |
+
 
 ### CRM & Sales
 
