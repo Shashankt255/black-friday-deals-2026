@@ -140,7 +140,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Wovo](https://wovo.one/#pricing) | AI/MCP that turns any AI into a multi-device agent across your computers | **50% OFF** Pro $144 → $72/yr and Max $348 → $174/yr — auto-applied, no code, new and existing users, price locked while subscribed (through Dec 15, 2026) | ✅ |
 | [Social Fetch](https://www.socialfetch.dev/black-friday) | Public social data API and MCP server (TikTok, Instagram, YouTube, X, Reddit, LinkedIn) | **2x CREDITS** on every plan, automatic at checkout, no code (Nov 19 to Dec 1) | ✅ |
 | [data-peek](https://www.datapeek.dev/pricing) | Keyboard-first SQL client for Postgres, MySQL, SQL Server, SQLite and ClickHouse on Mac, Windows and Linux | **40% OFF** Pro yearly, $29 → $17.40, auto-applied at checkout (Nov 26 – Dec 1) | ✅ |
-| [Tower](https://www.git-tower.com/) | Professional Git client for Mac & Windows | **50% OFF** new licenses — code `BF2026` | ✅ |
+| [Tower](https://www.git-tower.com/pricing) | Professional Git client for Mac & Windows | **Up to 50% OFF** the first year (Pro 50%, Basic 30%) — no code needed (Nov 23 – Dec 6) | ✅ |
 | [Pulsetic](https://pulsetic.com/) | Uptime monitoring & beautiful status pages | **35% OFF** all plans — code `BLACKFRIDAY35` (through Dec 3) | ✅ |
 | [JSON2Video](https://json2video.com/) | Programmatic video generation API | **25% OFF** first year of yearly plans — code `BF2026PIMJO` (Nov 24 – Dec 1) | ✅ |
 | [Wins](https://wins.cool/) | macOS window management & arrangement | **40% OFF** all plans — code `BF_26` (Nov 11 – Dec 1) | ✅ |
