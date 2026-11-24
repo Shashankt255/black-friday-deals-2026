@@ -738,6 +738,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Dypt](https://dypt.app/promo) | Task planner that breaks big tasks into steps, AI suggests missing ones, CLI for coding agents | **50% OFF** first year annual — code `BLACKFRIDAY` (Nov 20 – Nov 30) | ✅ |
 | [BetterDisplay](https://betterdisplay.pro/) | Control scaling, brightness and virtual screens from the Mac menu bar. | ♾️ **33% OFF** Pro (one-time purchase with at least 2 years of free updates) — code `BFCM2026` (Nov 26 – Dec 1, 2026) | ✅ |
 | [Noteline](https://noteline.io/pricing) | Markdown editor for Mac, Windows & Linux — plain .md files, Pandoc & Typst built in, no account | **50% OFF** one-time license $9.99 → $4.99 (through Nov 30) | ✅ |
+| [shepetal](https://shepetal.app/blog/black-friday-dictation-note-taking-deals?ref=shashankt255-bf) | Dictation and meeting notes for the Mac that run on your Mac, also offline | 💸 ♾️ **80% OFF** lifetime license €24 → €4.80 once, code `BLACKFRIDAY` (Nov 24 – Nov 30) | ✅ |
 
 ### Automation
 
