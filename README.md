@@ -643,6 +643,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Scrap.io](https://scrap.io/) | Google Maps business data extractor | 💸 **50% OFF** annual plans | ✅ |
 | [Highseat](https://highseat.com/pricing?billing=yearly) | Cookieless web analytics with revenue on every breakdown | **40% OFF** first year of any yearly plan, no code needed (Nov 23 – Dec 1) | ✅ |
 | [Posteady](https://www.posteady.com/black-friday) | AI social media workspace — schedule, create & manage content across platforms | **50% OFF** annual — code `BF26` | ✅ |
+| [Vaneform](https://vaneform.com/pricing) | Website traffic checker: visits, traffic sources, countries, ranking keywords & backlinks for any domain, plus API & MCP server | **20% OFF** Pro Annual Year 1 (~~$99~~ $79/yr [$6.58/mo]; renews at $99/yr; Monthly $12/mo unchanged) — code `VFBF2026`, auto-applied for new Pro Annual buyers (Nov 24 – Nov 30, 2026 PT) | ✅ |
 
 ### Productivity & Project Management
 
