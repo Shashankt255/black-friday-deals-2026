@@ -928,6 +928,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Sabi](https://meetsabi.com/pages/blackfriday) | AI assistant you text — email, calendar, lead follow-up, social posts | 💸 **50% OFF** 6 months Pro ($995 → $495), no code (Nov 20 – Nov 30) | ✅ |
 | [Pitchlist](https://pitchlist.serpwrap.com) | Local business leads by city and type with phone, address and rating (CSV, XLSX, JSON); Claude Code integration support; pay once | 💸 **60% OFF** every lead pack, code `BLACKFRIDAY60` (through Nov 30) | ✅ |
 | [AY Tenders](https://tenders.ayskilllab.com/#pricing) | Public tender notices from the EU (TED), UK, Ireland and US federal, sorted into seven sectors, with alerts | 💸 **50% OFF** first month on monthly plans — Tenders $19 → $9.50, Tenders + Grants $24 → $12, auto-applied, no code, then normal price (Nov 22 – Nov 30) | ✅ |
+| [Expandi](https://expandi.io/bfcm-promo/) | LinkedIn and email outreach automation in one campaign, for sales teams, founders and lead-gen agencies | 💸 **Up to 77% OFF** for 12 months — $79 → $53 per LinkedIn account/mo billed yearly, down to $23 at 50+ accounts, no code needed, 7-day free trial (Nov 20 – Dec 4) | ✅ |
 
 ### E-Signature
 
