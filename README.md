@@ -641,6 +641,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [The Cross Stitch Pattern Maker](https://thecrossstitchpatternmaker.com/pricing) | Browser photo-to-cross-stitch tool with stitch editing, DMC floss list and PDF export | ♾️ **32% OFF** Lifetime Pro — $40.12 one-time (was $59), no code, auto-applied (Nov 23 – Nov 30, 2026, Pacific time) | ✅ |
 | [Backdrop](https://cindori.com/backdrop) | Interactive live wallpapers for your Mac's Lock Screen and desktop | ♾️ **30% OFF** Lifetime $29.99 → $20.99, no code needed (Nov 24 – Dec 1) | ✅ |
 | [daisyUI](https://daisyui.com/store/) | Tailwind CSS UI component library — official templates and themes | **Up to 45% OFF** — code `BF26TZXLP` (discount drops each day) | ✅ |
+| [A1](https://www.a1.gallery/pricing) | Hand-picked gallery of real, live websites for design inspiration, with sections, full pages, fonts and colours for each site | **33% OFF** Pro yearly $72 → $48/yr, kept while subscribed, no code needed (Nov 19 – Nov 30) | ✅ |
 
 ### SEO & Marketing
 
