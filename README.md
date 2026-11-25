@@ -987,6 +987,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Signaturely](https://signaturely.com/) | Simple e-signature | **Up to 35% OFF** Business | ✅ |
 | [DocuSign](https://www.docusign.com/) | E-signature platform | **20-30% OFF** subscriptions | ⏳ |
 | [Inkfree](https://inkfree.app/) | eSignature for teams: signing order, templates, bulk send, audit trail | 💸 **70% OFF** first year annual (Nov 16 – Dec 14) | ✅ |
+| [Autentique](https://www.autentique.com.br/en) | E-signature with unlimited documents, users and signers, plus an API | **30% OFF** annual Professional ($179 → $119/yr), no code needed · extra **20% OFF** with code `BFF61H8` (Nov 25 – Nov 30) | ✅ |
 
 ### Finance & Budgeting
 
