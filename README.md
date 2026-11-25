@@ -757,6 +757,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Relaybrook](https://relaybrook.bytesell.app/) | Ready-to-import n8n workflow packs (AI lead enrichment, inbox triage, content repurposing); crypto checkout only | **40% OFF** store-wide — code `BLACKFRIDAY40` (until Dec 1) | ✅ |
 | [n8n](https://n8n.io/) | Advanced workflow automation with 400+ integrations | 💸 **50% OFF** Business annual plans | ✅ |
 | [Manychat](https://manychat.com/) | Automated chat marketing for WhatsApp, Instagram & SMS | 💸 **50% OFF** first 2 months of Pro | ✅ |
+| [WhatsTeam](https://whats.team/) | Shared WhatsApp inbox for sales and support teams on the official WhatsApp Business API, with campaigns and AI agents | **40% OFF** first 6 months of any monthly plan ($29 → $17.40/mo) — code `BLACKFRIDAY40` (Nov 22 – Dec 1, 2026, new subscriptions) | ✅ |
 
 ### Email Marketing
 
