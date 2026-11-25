@@ -679,6 +679,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [AI Tool Trek](https://aitooltrek.com/submit) | AI tools directory — list your AI tool for discovery, traffic & dofollow backlinks | 💸 **50% OFF** Fast Track listing ($24.90 → $12.45) — code `BLACKFRIDAY50`, auto-applied; Unlimited Pack $49.90 → $39.90/mo (Nov 24 – Nov 30) | ✅ |
 | [SiteData](https://sitedata.dev/black-friday) | Analyze website traffic, SEO keywords and competitor ads, and discover sites linked by shared AdSense publisher IDs. | **50% off** annual plans, **30% off** monthly plans · discounted renewals while subscribed · auto-applied at Stripe checkout, no code needed (Nov 24–30, 2026 (ends Nov 30 at 16:00 UTC)) | ✅ |
 | [Clothsy AI](https://clothsyai.fabricvton.com/pricing) | Virtual try-on button for Shopify and WooCommerce fashion stores | 💸 **50% OFF** the first month of any monthly plan, no code: Starter $19.99 → $9.99, Growth $49.99 → $24.99, Pro $99.99 → $49.99, Scale $199 → $99.50; yearly plans not included (Nov 23 – Nov 27) | ✅ |
+| [Quiet Winners](https://quietwinners.com/) | Monthly leaderboard of fast-growing websites making real money under the radar, with a 10,000+ word teardown of each one | **50% OFF** first month or year of Pro, no code | ✅ |
 
 ### Productivity & Project Management
 
