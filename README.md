@@ -492,6 +492,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [FlowSpeak](https://smolkapps.com/flowspeak/) | Local Hold-Ctrl push-to-talk dictation desktop app for macOS & Linux | ♾️ **34% OFF** Lifetime Pro ($29 → $19 one-time, 3 computers, no code, Nov 24 – Dec 1) | ✅ |
 | [Carry](https://carry.md/) | Save ChatGPT, Claude, Gemini & Grok chats as Markdown to Obsidian or local folder (Chrome/Edge) | **$20 OFF** lifetime $79 → $59 — code `BLACKFRIDAY20` | ✅ |
 | [Whizi](https://whizi.io/pricing/?utm_source=shashankt-bf2026&utm_medium=deal-list&utm_campaign=bf2026) | One subscription for ChatGPT, Claude, Gemini and more, plus image, video & music (web/iOS/Android) | **30% OFF** first year of any annual plan, auto-applied, no code (Nov 24 – Dec 24) | ✅ |
+| [Meetily](https://meetily.ai/pricing) | Open-source, bot-free AI meeting assistant for macOS & Windows that transcribes on your device | 💸 **55% OFF** Annual Pro $120 → $54/license/year — code `BLACKFRIDAY55`, auto-applied at checkout (Nov 25 – Dec 2) | ✅ |
 
 ### AI Image & Video
 
