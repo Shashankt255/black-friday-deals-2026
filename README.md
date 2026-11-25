@@ -1,16 +1,16 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2024%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-710-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-717-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 710 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
+The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 717 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
 > 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
 
-> ⭐ **Found this useful? [Star this repo](https://github.com/Shashankt255/black-friday-deals-2026/stargazers) to help it trend on Black Friday!** We're at 7 stars and 90 forks — your star makes a difference.
+> ⭐ **Found this useful? [Star this repo](https://github.com/Shashankt255/black-friday-deals-2026/stargazers) to help it trend on Black Friday!** We're at 8 stars and 102 forks — your star makes a difference.
 
 **🗓️ Black Friday: November 27, 2026 | Cyber Monday: November 30, 2026**
 
@@ -36,6 +36,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 
 ### 🆕 What's New (Updated Daily)
 
+- **Nov 25** — Merged 7 community PRs (#121–#127): shepetal, A1, AI Tool Trek, LyricsMove, Clothsy AI, Whizi, SiteData. Closed #120 (duplicate of #125). 717 total deals.
 - **Nov 24 (PM4)** — Cross-ref pass #7 (trungdq88 + mRs- + greatfrontend): added 15 curated deals — Monitorable, GitKraken, RenewRoster (dev), Carry, Convika, SharpAPI (AI), SurfacedBy (SEO), daisyUI (design), Noteline (productivity), Directify (no-code), Shot Video (video), Zero To Mastery, Code With Mosh, VueSchool, Hello Interview (courses). 710 total deals.
 - **Nov 24 (PM3)** — Cross-ref pass #6 (twf-nikhila): added 15 curated deals — Pagerly, HiAPI, SocialAPIs, Agentwright (dev), Zero-Trace Ship Kit (security), Certificates.dev, Unlearn (courses), Ascope (SEO), Obsidian Starter Kit (productivity), SwiftERM (email), Reviso, GitCMS (WP/no-code), Kira-AI, Legalnaut, Scalelist, LeadMerlin (business). 694 total deals.
 - **Nov 24 (PM2)** — Merged 9 community PRs (#111–#119): Kollab, Vaneform, Moordeck, BetterDisplay, Expandi, ShiftApp, BacklinkGenie, Grai, Tower update. Flipped MasterClass (50% OFF, expires Nov 25!), Disney+ & Hulu ($4.99/mo) ⏳→✅. Updated White Knight Labs details. 679 total deals.
