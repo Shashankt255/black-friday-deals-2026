@@ -608,6 +608,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Packt Publishing](https://www.packtpub.com/) | 7,500+ tech eBooks & videos | **50% OFF** eBooks | ⏳ |
 | [Manning](https://www.manning.com/) | LiveBook, MEAP early access | **45% OFF** daily deals running now | ⏳ |
 | [Humble Bundle](https://www.humblebundle.com/) | Games, books & software bundles | **Up to 90% OFF** PC games — FF7 Rebirth $7.50, Choice members extra 20% off | ✅ |
+| [Valenx Interview Bundle](https://valenx.org/go/bf-bundle?utm_source=github&utm_medium=awesome_list&utm_campaign=bf2026) | PM, AI engineer and data science interview playbooks | **30% OFF** with code `BF30` | ✅ |
 
 ## 🎨 Design & Productivity
 
@@ -746,6 +747,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [BetterDisplay](https://betterdisplay.pro/) | Control scaling, brightness and virtual screens from the Mac menu bar. | ♾️ **33% OFF** Pro (one-time purchase with at least 2 years of free updates) — code `BFCM2026` (Nov 26 – Dec 1, 2026) | ✅ |
 | [Noteline](https://noteline.io/pricing) | Markdown editor for Mac, Windows & Linux — plain .md files, Pandoc & Typst built in, no account | **50% OFF** one-time license $9.99 → $4.99 (through Nov 30) | ✅ |
 | [shepetal](https://shepetal.app/blog/black-friday-dictation-note-taking-deals?ref=shashankt255-bf) | Dictation and meeting notes for the Mac that run on your Mac, also offline | 💸 ♾️ **80% OFF** lifetime license €24 → €4.80 once, code `BLACKFRIDAY` (Nov 24 – Nov 30) | ✅ |
+| [PuzzleBind](https://puzzlebind.com/black-friday/?utm_source=github&utm_medium=awesome_list&utm_campaign=bf2026) | Printable word search, Sudoku and maze maker that exports whole KDP-ready puzzle books (web) | ♾️ **$14** one-time (regular $19) through Nov 30, no code needed | ✅ |
 
 ### Automation
 
