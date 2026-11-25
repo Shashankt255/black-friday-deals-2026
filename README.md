@@ -672,6 +672,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Vaneform](https://vaneform.com/pricing) | Website traffic checker: visits, traffic sources, countries, ranking keywords & backlinks for any domain, plus API & MCP server | **20% OFF** Pro Annual Year 1 (~~$99~~ $79/yr [$6.58/mo]; renews at $99/yr; Monthly $12/mo unchanged) — code `VFBF2026`, auto-applied for new Pro Annual buyers (Nov 24 – Nov 30, 2026 PT) | ✅ |
 | [Ascope](https://ascope.app/) | ASO tool for Mac & Windows: App Store / Google Play keyword rank tracking in 50+ countries with MCP server | ♾️ **63% OFF** lifetime licence ($189 → $69), auto-applied | ✅ |
 | [SurfacedBy](https://surfacedby.com/pricing) | Track which brands ChatGPT, Perplexity & Gemini recommend — monitor AI search citations | **50% OFF** first 3 months or 25% OFF first year, no code (through Nov 30) | ✅ |
+| [SiteData](https://sitedata.dev/black-friday) | Analyze website traffic, SEO keywords and competitor ads, and discover sites linked by shared AdSense publisher IDs. | **50% off** annual plans, **30% off** monthly plans · discounted renewals while subscribed · auto-applied at Stripe checkout, no code needed (Nov 24–30, 2026 (ends Nov 30 at 16:00 UTC)) | ✅ |
 
 ### Productivity & Project Management
 
