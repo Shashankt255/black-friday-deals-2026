@@ -499,6 +499,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Carry](https://carry.md/) | Save ChatGPT, Claude, Gemini & Grok chats as Markdown to Obsidian or local folder (Chrome/Edge) | **$20 OFF** lifetime $79 → $59 — code `BLACKFRIDAY20` | ✅ |
 | [Whizi](https://whizi.io/pricing/?utm_source=shashankt-bf2026&utm_medium=deal-list&utm_campaign=bf2026) | One subscription for ChatGPT, Claude, Gemini and more, plus image, video & music (web/iOS/Android) | **30% OFF** first year of any annual plan, auto-applied, no code (Nov 24 – Dec 24) | ✅ |
 | [Meetily](https://meetily.ai/pricing) | Open-source, bot-free AI meeting assistant for macOS & Windows that transcribes on your device | 💸 **55% OFF** Annual Pro $120 → $54/license/year — code `BLACKFRIDAY55`, auto-applied at checkout (Nov 25 – Dec 2) | ✅ |
+| [ImagineYourBook](https://www.imagineyourbook.com/blackfriday) | AI book writer that plans and drafts full-length novels with a cover, export to Word, EPUB or Markdown (web) | **Pay-once novel credit packs**: Duet (2 novels) $59, Series (5 novels) $119 + 1 novel to give away, Library (10 novels) $199 + 1 novel to give away. Normal price $5 a credit, a novel up to 80,000 words is 16 credits, credits never expire, no code needed (until Nov 30, 11:59 pm PT) | ✅ |
 
 ### AI Image & Video
 
