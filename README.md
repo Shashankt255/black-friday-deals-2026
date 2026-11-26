@@ -474,6 +474,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Supacite](https://supacite.com/) | AI citation manager for academic writing | ♾️ **Lifetime $89** early tier — code `CITEBF` | ✅ |
 | [Blip AI Pro](https://www.blipai.app/) | AI-powered reading & research assistant | 💸 **50% OFF** first year | ✅ |
 | [Fluent 2](https://fluentmac.app/) | macOS AI assistant triggered by hotkey, works with on-screen content | **25% OFF** lifetime tiers — code `BF2026` (through Dec 1) | ✅ |
+| [Screenpipe](https://screenpipe.com/black-friday?utm_source=github&utm_medium=deal-list&utm_campaign=black_friday_2026&utm_content=shashankt255) | AI that knows everything you've seen, said, or heard: local screen + audio capture turned into searchable memory, skills and workflows for Claude, Codex, Cursor and teams (macOS, Windows, Linux) | **20% OFF** first year of annual plans — Basic $250 → $200, Business $500 → $400/seat, no code needed, renews at list price (Nov 25 – Nov 30, 2026) | ✅ |
 | [ChatPlayground AI](https://www.stacksocial.com/sales/chatplayground-ai-unlimited-plan-lifetime-subscriptions) | Multi-AI chat (GPT-4, Claude, Gemini, Llama) in one workspace | 💸 ♾️ **90% OFF** Lifetime $630 → $63 | ✅ |
 | [Slashspace](https://www.slashspace.ai/) | AI writing workspace with templates & team collaboration | 💸 ♾️ **51% OFF** Lifetime $249 → $122 — code `BF2026` | ✅ |
 | [SmartyTab](https://smartytab.app/) | AI browser assistant for summarizing & researching any page | ♾️ **30% OFF** Lifetime $99 → $69.30 | ✅ |
