@@ -314,6 +314,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [8kSec Academy](https://academy.8ksec.io/) | On-demand mobile & AI security training (CAISR, CMSE, OMSE, CISR, CASR) with hands-on labs | **15% OFF** all on-demand courses — code `BLACKFRIDAY15` (Nov 20 – Dec 4, 2026) | ✅ |
 | [Practical Android App Security Testing](https://www.coldedgetrainings.com/practical-android-app-security-testing) | Self-paced course for web pentesters on testing Android apps & APIs, with hands-on labs on a non-rooted device | ♾️ **$999 launch price** (rises to $1,499 on Dec 5), no code needed (Nov 19 – Dec 4) | ✅ |
 | [AppSecEngineer](https://appsecengineer.com/) | Hands-on AI security, AppSec & cloud security training with labs | **40% OFF** Pro Plus annual & Bootcamps — code `LEVELUP40` | ✅ |
+| [Scarlet Shark](https://scarletshark.com/promo/cybermonday2026.html) | Cyber threat intelligence platform for security analysts: investigate threats, monitor SaaS uptime and track malicious infrastructure and actors | **100% OFF** the Basic plan for 5 months - code `CyberMonday2026` auto-applied (through Jan 30, 2027) | ✅ |
 
 ### VPN Services
 
