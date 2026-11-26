@@ -389,7 +389,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [IONOS](https://www.ionos.com/) | Shared hosting, 350GB storage | **Up to 94% OFF** — from $1.00/mo | ✅ |
 | [SiteGround](https://www.siteground.com/) | Shared/WordPress, free SSL + CDN | **Up to 88% OFF** — from $1.99/mo | ✅ |
 | [Kinsta](https://kinsta.com/) | Managed WordPress hosting | **50% OFF** annual and monthly | ✅ |
-| [Cloudways](https://www.cloudways.com/) | Managed cloud (DO/Vultr/AWS/GCP) | **50% OFF** 3 months — code `BFCM5050` (ends Dec 4) | ✅ |
+| [Cloudways](https://www.cloudways.com/) | Managed cloud (DO/Vultr/AWS/GCP) | **80% OFF** 2 months + unlimited migrations on all products — code `BFCM802` (Nov 5 – Dec 4) | ✅ |
 | [InMotion](https://www.inmotionhosting.com/) | Shared/WordPress/reseller | **Up to 75% OFF** (97% on reseller, ends Dec 16) | ✅ |
 | [HostPapa](https://www.hostpapa.com/) | WordPress, VPS, dedicated | **From $1.25/mo** (up to 90% off) | ✅ |
 | [Hosting.com](https://www.hosting.com/) | Shared/WordPress hosting | **Up to 89% OFF** (Nov 2 – Dec 1) | ✅ |
