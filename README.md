@@ -696,6 +696,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [SiteData](https://sitedata.dev/black-friday) | Analyze website traffic, SEO keywords and competitor ads, and discover sites linked by shared AdSense publisher IDs. | **50% off** annual plans, **30% off** monthly plans · discounted renewals while subscribed · auto-applied at Stripe checkout, no code needed (Nov 24–30, 2026 (ends Nov 30 at 16:00 UTC)) | ✅ |
 | [Clothsy AI](https://clothsyai.fabricvton.com/pricing) | Virtual try-on button for Shopify and WooCommerce fashion stores | 💸 **50% OFF** the first month of any monthly plan, no code: Starter $19.99 → $9.99, Growth $49.99 → $24.99, Pro $99.99 → $49.99, Scale $199 → $99.50; yearly plans not included (Nov 23 – Nov 27) | ✅ |
 | [Quiet Winners](https://quietwinners.com/) | Monthly leaderboard of fast-growing websites making real money under the radar, with a 10,000+ word teardown of each one | **50% OFF** first month or year of Pro, no code | ✅ |
+| [Startup Buffer](https://startupbuffer.com/promote) | Startup directory with 33,000+ listings; homepage features for your product | **50% OFF** homepage features until **Dec 4**, no code; Year Pass from $149 | ✅ |
 
 ### Productivity & Project Management
 
