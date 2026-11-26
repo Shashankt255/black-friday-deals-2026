@@ -1,12 +1,12 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2026%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-738-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-749-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 738 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
+The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 749 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
 > 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
 
@@ -36,7 +36,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 
 ### 🆕 What's New (Updated Daily)
 
-- **Nov 26 (BF Eve)** — 🔥 **Black Friday flip pass:** 6 deals ⏳→✅ — White Knight Labs (50% OFF certs, code `WKLBLACKFRIDAY26`), natbox (50% OFF for life VPS), Perisclaw (40% OFF), CVder (50% OFF, code `BF2026`), Packt (50% OFF eBooks + ExpertEdge, code `CIPHERS50`), Manning (45% OFF daily deals). 26 deals still ⏳ — checking remaining on BF day.
+- **Nov 26 (BF Eve)** — 🔥 **Black Friday flip pass:** 6 deals ⏳→✅ — White Knight Labs (50% OFF certs, code `WKLBLACKFRIDAY26`), natbox (50% OFF for life VPS), Perisclaw (40% OFF), CVder (50% OFF, code `BF2026`), Packt (50% OFF eBooks + ExpertEdge, code `CIPHERS50`), Manning (45% OFF daily deals). Merged 8 community PRs (#148–#155): ImagineYourBook, Caddy Docs, Linguise, Cloudways update, Pixels71, Switchy, Scarlet Shark, PasteNotch. **749 total deals.** 26 still ⏳ — checking remaining on BF day.
 - **Nov 26** — Merged 17 community PRs (#128–#146): Kiri, ReUI, Wassenger, Quiet Winners, Meetily, GridPin, FrameGloss, WhatsTeam, Screenpipe, Shorvo, PuzzleBind, Valenx Interview Bundle, Autentique, FireCut, Vibe Island, MakeItSay, Crabsmith, Rebit Pro. 735 total deals. **BF tomorrow!**
 - **Nov 25** — Merged 7 community PRs (#121–#127): shepetal, A1, AI Tool Trek, LyricsMove, Clothsy AI, Whizi, SiteData. Closed #120 (duplicate of #125). 717 total deals.
 - **Nov 24 (PM4)** — Added 15 curated deals: Monitorable, GitKraken, RenewRoster (dev), Carry, Convika, SharpAPI (AI), SurfacedBy (SEO), daisyUI (design), Noteline (productivity), Directify (no-code), Shot Video (video), Zero To Mastery, Code With Mosh, VueSchool, Hello Interview (courses). 710 total deals.
@@ -767,6 +767,8 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [PuzzleBind](https://puzzlebind.com/black-friday/?utm_source=github&utm_medium=awesome_list&utm_campaign=bf2026) | Printable word search, Sudoku and maze maker that exports whole KDP-ready puzzle books (web) | ♾️ **$14** one-time (regular $19) through Nov 30, no code needed | ✅ |
 | [SeenIn](https://seenin.isherry.tech) | Self-hosted link-in-bio page that turns recommended products, tools and codes into a gallery of posters | **25% OFF** every plan, one-time payment — code `BF2026` (1 site $39 → $29.25, Nov 27 – Dec 1) | ✅ |
 | [Switchy](https://getswitchy.app/black-friday) | Mac menu bar utility with 31 one-click switches (Dark Mode, Keep Awake, hide desktop icons), plus deploy status, 2FA codes and Claude/Codex usage limits | 💸 **50% OFF** one-time, up to 3 Macs ($4.99 → $2.49) — code `BLACKFRIDAY50` (Nov 23 – Dec 1) | ✅ |
+| [PasteNotch](https://pastenotch.com/black-friday) | Mac clipboard manager that lives in your notch: every clip (text, links, images, files) searchable, one shortcut away | 💸 **50% OFF** one-time purchase ($4.99 → $2.49) — code `BLACKFRIDAY50` (Nov 23 – Dec 1) | ✅ |
+| [Caddy Docs](https://apps.apple.com/us/app/caddy-docs/id6802867430?mt=12) | Files, PDFs and notes in tabs at the edge of your Mac, with animated desktop pets | **38% OFF** one-time purchase ($21 → $12.99), no code, through Dec 1 | ✅ |
 
 ### Automation
 
@@ -793,7 +795,6 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Terlido](https://terlido.com/) | Cold email & newsletters with warmup and AI agent | **40% OFF** 12 months — code `BF2026` | ✅ |
 | [Sequenzy](https://www.sequenzy.com/) | Lifecycle email tool for SaaS products | **30% OFF** for a full year — code `BLACKFRIDAY` | ✅ |
 | [SwiftERM](https://swifterm.com/black-friday/) | Autonomous individualisation for ecommerce email marketing | **40% OFF** first 12 months — code `BLACKFRIDAY26` (new customers, after 30-day free trial) | ✅ |
-| [Caddy Docs](https://apps.apple.com/us/app/caddy-docs/id6802867430?mt=12) | Files, PDFs and notes in tabs at the edge of your Mac, with animated desktop pets | **38% OFF** one-time purchase ($21 → $12.99) on the Mac App Store, no code, through Dec 1 | ✅ |
 
 ## 🌐 WordPress & No-Code
 
@@ -836,7 +837,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [MilliCache Pro](https://www.millipress.com/millicache-pro/) | Full-page caching for WordPress in memory and at the edge, clears only what changed | **25% OFF** first year — code `BF26` (Nov 24 – Dec 1) | ✅ |
 | [WPOS](https://wpos.ai/black-friday/) | AI agent inside wp-admin for WordPress sites on any host (Gutenberg, Elementor, Divi) | 💸 **50% OFF** site licences for 2 months ($25 → $12.50/site/mo) + 15,000 free credits for new accounts — code `FRIDAY50` (Nov 11 – Nov 30) | ✅ |
 | [Reviso](https://getreviso.io/pricing/) | Client feedback for WordPress: clients pin comments on the live page, resolve in Bricks/Elementor/Gutenberg | **25% OFF** first year — code `BLACKFRIDAY25` (Pro $89 → $66.75/yr, Agency $279 → $209.25/yr) | ✅ |
-| [Linguise](https://www.linguise.com/prices/) | AI-powered website translation solution supporting 85+ languages with built-in SEO optimization and easy CMS integrations. It delivers high-quality neural translations that you can review and edit yourself or hand off to professional translators. | 30% OFF all new subscription plans with code `BLACKLINGUISE` (Nov 25 – Dec 1, 2026) | ✅ |
+| [Linguise](https://www.linguise.com/prices/) | AI website translation for 85+ languages with SEO, CMS integrations and pro translator handoff | **30% OFF** all new plans — code `BLACKLINGUISE` (Nov 25 – Dec 1) | ✅ |
 
 ### No-Code Platforms
 
