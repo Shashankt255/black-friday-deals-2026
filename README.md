@@ -531,6 +531,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Narva](https://narva.app/#pricing) | Topic, script or voiceover in, finished faceless YouTube video out | **30% OFF** first month of any plan — code `NARVA30` (Nov 23 – Nov 30) | ✅ |
 | [Shot Video](https://shot.video/black-friday) | Multi-camera studio from your laptop + phones — AI makes first edit, no app to install | **80% OFF** first year — Creator $39, Pro $79, no code (first 100 buyers, Nov 20 – Dec 1) | ✅ |
 | [LyricsMove](https://lyricsmove.com/pricing) | Lyric video maker: upload a song or paste a Suno link for word-timed lyric videos (free 720p) plus optional cartoon AI music videos | **30% OFF** one-time Pro songs, Starter Packs & AI MVs with auto-applied code `BF2026` ($3.90 → $2.73 / $14.90 → $10.43); extra **40% OFF** first year of Pro/Ultra yearly with `BF2026YEAR` ($199 → $119.40 / $499 → $299.40, through Dec 1) | ✅ |
+| [MakeItSay](https://makeitsay.com/pricing) | Edit or translate text inside photos, screenshots, and labels while keeping the original font, perspective, and background | **30% OFF** one-time credit packs with auto-applied code `BF2026` ($3 → $2.10 for 6 edits / $10 → $7 for 40 edits); extra **40% OFF** first year of Pro/Studio yearly with `BF2026YEAR` ($200 → $120 / $490 → $294, through Dec 1) | ✅ |
 
 ### AI SEO & Marketing
 
