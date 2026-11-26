@@ -849,6 +849,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Xbox / PC Game Deals](https://www.xbox.com/en-US/promotions/sales/black-friday) | 2,000+ games up to 80% off (console + PC) | **Up to 80% OFF** — live Nov 19, through Dec 2; more deals Nov 23 | ✅ |
 | [GOG.com](https://www.gog.com/) | DRM-free PC games, up to 90% off | Late Nov (TBA) | ⏳ |
 | [Epic Games Store](https://store.epicgames.com/) | Epic Savings + BF Premium Editions | **Up to 80% OFF** — Epic Savings (Nov 12–26) + Premium Editions (Nov 17–Dec 1) | ✅ |
+| [Rebit Pro](https://rebit.cc/) | Play your own retro games on the web or your phone, with cloud saves and multiplayer. | **40% off** the first year of Pro on the web ($8.99 instead of $14.99) with code **BLACKFRIDAY40** (Nov 22 – Dec 1, 2026) | ✅ |
 
 ### Consoles & VR
 
