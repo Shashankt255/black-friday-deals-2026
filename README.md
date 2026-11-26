@@ -762,6 +762,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Kiri](https://project-kiri.com/pricing?utm_source=bf-shashankt255) | Focus timer in one browser tab: dial, task list and ten background sounds that go quiet in breaks; free timer, no account | 💸 ♾️ **50% OFF** Lifetime (€39 → €19.50) — code `BF2026` (Nov 25 – Dec 1) | ✅ |
 | [PuzzleBind](https://puzzlebind.com/black-friday/?utm_source=github&utm_medium=awesome_list&utm_campaign=bf2026) | Printable word search, Sudoku and maze maker that exports whole KDP-ready puzzle books (web) | ♾️ **$14** one-time (regular $19) through Nov 30, no code needed | ✅ |
 | [SeenIn](https://seenin.isherry.tech) | Self-hosted link-in-bio page that turns recommended products, tools and codes into a gallery of posters | **25% OFF** every plan, one-time payment — code `BF2026` (1 site $39 → $29.25, Nov 27 – Dec 1) | ✅ |
+| [PasteNotch](https://pastenotch.com/black-friday) | Mac clipboard manager that lives in your notch: every clip (text, links, images, files) searchable, one shortcut away | 💸 **50% OFF** one-time purchase ($4.99 → $2.49) — code `BLACKFRIDAY50` (Nov 23 – Dec 1) | ✅ |
 
 ### Automation
 
