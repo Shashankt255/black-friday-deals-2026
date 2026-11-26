@@ -1040,6 +1040,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Deletti](https://deletti.app/) | Free up iPhone space — start with biggest videos/photos, swipe to keep or trash | **50% OFF** Lifetime ($17.99 → $8.99) — code `BFCM26` (through Dec 1) | ✅ |
 | [ZxClip](https://zxclip.com/) | macOS AI video editor — edit video by editing the transcript, filler word removal, voice cloning | 💸 ♾️ **70% OFF** Lifetime ($80 → $24) (through Dec 1) | ✅ |
 | [BatchMark](https://batchmark.dispatchcat.com/holiday-sale/) | iPhone/iPad photo app — batch watermark up to 100 photos, art frames, Color Walk cards and Photo Stories, all on-device | 💸 ♾️ **50% OFF** Lifetime ($79.99 → $39.99), auto-applied, no code (Nov 15 – Dec 25, 2026) | ✅ |
+| [FrameGloss](https://framegloss.app/?deal=blackfriday&utm_source=shashankt-bf2026&utm_medium=deal-list&utm_campaign=bf2026) | Browser-based Screen Studio alternative — spring zooms, macOS/browser frames, 9:16/4:5 smart crop & callouts, 100% local WebCodecs MP4/GIF | 💸 ♾️ **50% OFF** Pro Lifetime ($15 → $7.50, one-time) — code `BLACKFRIDAY` (Nov 24 – Nov 30, 2026) | ✅ |
 
 ## 🏋️ Health, Fitness & Lifestyle
 
