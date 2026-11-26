@@ -1,12 +1,12 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2025%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-735-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-738-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 735 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
+The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 738 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
 > 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
 
@@ -560,6 +560,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [BacklinkGenie](https://backlinkgenie.com/pricing/) | AI link-building outreach agent: finds posts where you belong, pitches editors from a managed mailbox, follows up and checks links stay live (web + MCP) | 💸 **30% OFF** monthly or **50% OFF** yearly for as long as you stay subscribed (Starter $99 → $69.30/mo or $990 → $495/yr) — auto-applied, codes `BFCM30` / `BFCM50` (Nov 24 – Dec 31, 2026) | ✅ |
 | [SharpAPI](https://sharpapi.com/en/pricing) | AI workflow automation API: product descriptions, resume parsing, SEO tags and more | **40% OFF** every plan for 12 months — code `BF2026` (ends Nov 30) | ✅ |
 | [Convika](https://convika.com/black-friday/) | Turn AI-generated HTML into shareable links with analytics + MCP server for Claude/Codex | **50% OFF** Pro yearly $108 → $54/yr, no code (Nov 23 – Dec 31) | ✅ |
+| [AltTextLab](https://alttextlab.com/black-friday) | AI alt text generator for every image on a site, 130+ languages, WordPress/Shopify/Webflow | **40% OFF** credit packs and first year of Pro annual — code `BF2026` (Nov 17 – Dec 1) | ✅ |
 
 ### No BF Deal Expected
 
@@ -760,6 +761,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [shepetal](https://shepetal.app/blog/black-friday-dictation-note-taking-deals?ref=shashankt255-bf) | Dictation and meeting notes for the Mac that run on your Mac, also offline | 💸 ♾️ **80% OFF** lifetime license €24 → €4.80 once, code `BLACKFRIDAY` (Nov 24 – Nov 30) | ✅ |
 | [Kiri](https://project-kiri.com/pricing?utm_source=bf-shashankt255) | Focus timer in one browser tab: dial, task list and ten background sounds that go quiet in breaks; free timer, no account | 💸 ♾️ **50% OFF** Lifetime (€39 → €19.50) — code `BF2026` (Nov 25 – Dec 1) | ✅ |
 | [PuzzleBind](https://puzzlebind.com/black-friday/?utm_source=github&utm_medium=awesome_list&utm_campaign=bf2026) | Printable word search, Sudoku and maze maker that exports whole KDP-ready puzzle books (web) | ♾️ **$14** one-time (regular $19) through Nov 30, no code needed | ✅ |
+| [SeenIn](https://seenin.isherry.tech) | Self-hosted link-in-bio page that turns recommended products, tools and codes into a gallery of posters | **25% OFF** every plan, one-time payment — code `BF2026` (1 site $39 → $29.25, Nov 27 – Dec 1) | ✅ |
 
 ### Automation
 
@@ -1075,7 +1077,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 |---------|-------------|------|--------|
 | [FlexiSpot](https://www.flexispot.com/) | Electric sit-stand desks | Deals **live now** (~$300, reg $499) | ✅ |
 | ~~[Herman Miller Aeron](https://www.hermanmiller.com/)~~ | Iconic ergonomic chair | ~~25% OFF~~ — **EXPIRED** Nov 12 | ❌ |
-| UPLIFT V2 | Standing desk | $100-200 off | ⏳ |
+| [UPLIFT V2](https://www.upliftdesk.com/) | Electric standing desk | **$100–$300 OFF** tiered by spend ($999+/$1499+/$1999+/$2999+) — code `BF2026` (through Nov 29) | ✅ |
 
 ### Recovery & Fitness
 
@@ -1098,6 +1100,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 |---------|-------------|------|--------|
 | [Headspace](https://www.headspace.com/) | Meditation & mindfulness | **50% OFF** first year (~$34.99) — Nov 12 – Dec 4 | ✅ |
 | [Calm](https://www.calm.com/) | Sleep & meditation | **40-50% OFF** | ⏳ |
+| [intropi](https://intropi.app/black-friday) | Self-hypnosis & guided meditation for sleep, focus and habits — 191 topics, 114 audio journeys (iOS/Android/web) | 💸 ♾️ **53% OFF** Premium Lifetime $189.99 → $89.99, no code (Nov 25 – Dec 1) | ✅ |
 | [DeskRest](https://deskrest.app/) | Break reminder for healthy screen habits | 💸 **80% OFF** lifetime — code `BLACKFRIDAY80` | ✅ |
 | [Nutrify](https://nutrifytracker.com/) | AI calorie tracker — snap a photo to log calories & macros (iPhone + Android) | 💸 **60% OFF** first year ($49.99 → $19.99) · Lifetime $79 (reg $99), no code (Nov 20 – Dec 30) | ✅ |
 | [Nomu](https://www.tappect.com/get/nomu) | Intermittent fasting timer — 16:8, 18:6, OMAD (iPhone, Apple Watch, Android) | **57% OFF** first year ($29.99 → $12.99) · Lifetime $29.99 (reg $49.99), no code (Nov 20 – Dec 30) | ✅ |
