@@ -979,6 +979,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Legalnaut](https://legalnaut.com/) | AI case workspace for litigation: chronology, contradictions, proof chart & deadlines linked to source pages | **30% OFF** any plan for first 12 months — code `BF2026` | ✅ |
 | [Scalelist](https://scalelist.com/black-friday/) | Email & mobile number finder for outbound sales | **40% OFF** annual plans (12 months for the price of 7) — code `BF40` | ✅ |
 | [LeadMerlin](https://leadmerlin.com/black-friday/) | Local business leads for AI agents & automations with owner names, emails, phone line types & site tech | **40% OFF** first year — code `BF2026` (Starter $348 → $208.80/yr, Pro $468 → $280.80/yr) | ✅ |
+| [Wassenger](https://wassenger.com/black-friday) | WhatsApp for teams: AI agent, shared inbox, CRM, campaigns and the official WhatsApp Business API | **40% OFF** first 6 months of any monthly plan (€39.90 → €23.94/mo) — code `BLACKFRIDAY40` (Nov 24 – Dec 1, 2026, new subscriptions) | ✅ |
 
 ### E-Signature
 
