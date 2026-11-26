@@ -503,6 +503,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Whizi](https://whizi.io/pricing/?utm_source=shashankt-bf2026&utm_medium=deal-list&utm_campaign=bf2026) | One subscription for ChatGPT, Claude, Gemini and more, plus image, video & music (web/iOS/Android) | **30% OFF** first year of any annual plan, auto-applied, no code (Nov 24 – Dec 24) | ✅ |
 | [Meetily](https://meetily.ai/pricing) | Open-source, bot-free AI meeting assistant for macOS & Windows that transcribes on your device | 💸 **55% OFF** Annual Pro $120 → $54/license/year — code `BLACKFRIDAY55`, auto-applied at checkout (Nov 25 – Dec 2) | ✅ |
 | [ImagineYourBook](https://www.imagineyourbook.com/blackfriday) | AI book writer that plans and drafts full-length novels with a cover, export to Word, EPUB or Markdown (web) | **Pay-once novel credit packs**: Duet (2 novels) $59, Series (5 novels) $119 + 1 novel to give away, Library (10 novels) $199 + 1 novel to give away. Normal price $5 a credit, a novel up to 80,000 words is 16 credits, credits never expire, no code needed (until Nov 30, 11:59 pm PT) | ✅ |
+| [Sky OS AI](https://skyrunapp.com/?src=gh-black-friday-deals-2026) | AI that does the work on your own Mac: ask from your phone or the web, it uses your apps, files & browser and shows every step | **30% OFF** first month of any monthly plan (Pro: $14 first month, then $20/mo), auto-applied, no code (Nov 26 – Nov 30, 11:59 pm ET) | ✅ |
 
 ### AI Image & Video
 
