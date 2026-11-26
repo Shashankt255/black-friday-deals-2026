@@ -261,6 +261,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Monitorable](https://monitorable.io/) | Linux server monitoring — OpenTelemetry agent, dashboard & alerting, free for 3 servers | **40% OFF** recurring — code `BF2026` (first 200 subs, through Dec 1) | ✅ |
 | [GitKraken](https://www.gitkraken.com/pricing) | Git client with visual commit graph, merge conflict editor and GitLens for VS Code | **60% OFF** first year — code `BLACKFRIDAY2026` | ✅ |
 | [RenewRoster](https://renewroster.com/pricing) | Domain & SSL expiry tracking for agencies + MCP server for Claude/ChatGPT/Grok | 💸 **50% OFF** annual — Starter $75/yr, Agency $195/yr (Nov 3 – Dec 2) | ✅ |
+| [Crabsmith](https://crabsmith.com/#pricing) | Hosted control panel for Ubuntu servers: deploy Laravel, Node.js and Next.js over SSH with Caddy HTTPS | **40% OFF** first payment, any plan — code `BLACKFRIDAY40` (through Dec 1) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
