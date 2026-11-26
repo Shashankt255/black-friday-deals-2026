@@ -1,12 +1,12 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2025%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-717-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-735-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 717 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
+The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 735 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
 > 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
 
@@ -36,6 +36,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 
 ### 🆕 What's New (Updated Daily)
 
+- **Nov 26** — Merged 17 community PRs (#128–#146): Kiri, ReUI, Wassenger, Quiet Winners, Meetily, GridPin, FrameGloss, WhatsTeam, Screenpipe, Shorvo, PuzzleBind, Valenx Interview Bundle, Autentique, FireCut, Vibe Island, MakeItSay, Crabsmith, Rebit Pro. 735 total deals. **BF tomorrow!**
 - **Nov 25** — Merged 7 community PRs (#121–#127): shepetal, A1, AI Tool Trek, LyricsMove, Clothsy AI, Whizi, SiteData. Closed #120 (duplicate of #125). 717 total deals.
 - **Nov 24 (PM4)** — Added 15 curated deals: Monitorable, GitKraken, RenewRoster (dev), Carry, Convika, SharpAPI (AI), SurfacedBy (SEO), daisyUI (design), Noteline (productivity), Directify (no-code), Shot Video (video), Zero To Mastery, Code With Mosh, VueSchool, Hello Interview (courses). 710 total deals.
 - **Nov 24 (PM3)** — Added 15 curated deals: Pagerly, HiAPI, SocialAPIs, Agentwright (dev), Zero-Trace Ship Kit (security), Certificates.dev, Unlearn (courses), Ascope (SEO), Obsidian Starter Kit (productivity), SwiftERM (email), Reviso, GitCMS (WP/no-code), Kira-AI, Legalnaut, Scalelist, LeadMerlin (business). 694 total deals.
@@ -262,6 +263,9 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [GitKraken](https://www.gitkraken.com/pricing) | Git client with visual commit graph, merge conflict editor and GitLens for VS Code | **60% OFF** first year — code `BLACKFRIDAY2026` | ✅ |
 | [RenewRoster](https://renewroster.com/pricing) | Domain & SSL expiry tracking for agencies + MCP server for Claude/ChatGPT/Grok | 💸 **50% OFF** annual — Starter $75/yr, Agency $195/yr (Nov 3 – Dec 2) | ✅ |
 | [ReUI](https://reui.io/pricing?utm_source=shashankt255-bfcm&utm_medium=directory&utm_campaign=reui-nov26) | The agent-ready layer for shadcn/ui | **30% OFF** every license, no code needed (until Nov 30) | ✅ |
+| [GridPin](https://gridpin.dev/buy#snapshot) | Offline geocoder for 13 countries, no API key | **40% OFF** one-time Snapshot, $199 → $119 in USDC, no code needed (Nov 25 – Dec 1) | ✅ |
+| [Vibe Island](https://vibeisland.app/?ref=shashankt) | macOS notch panel for Claude Code, Codex, Cursor and 27 more AI coding agents | **40% OFF** 1 Mac ($19.99 → $11.99), 2 Macs $21.99, 3 Macs $31.99, no code needed (Nov 25 – Dec 1) | ✅ |
+| [Crabsmith](https://crabsmith.com/#pricing) | Hosted control panel for Ubuntu servers: deploy Laravel, Node.js and Next.js over SSH with Caddy HTTPS | **40% OFF for life**, any plan — code `BLACKFRIDAY40` (through Dec 1) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
@@ -535,6 +539,8 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Shot Video](https://shot.video/black-friday) | Multi-camera studio from your laptop + phones — AI makes first edit, no app to install | **80% OFF** first year — Creator $39, Pro $79, no code (first 100 buyers, Nov 20 – Dec 1) | ✅ |
 | [LyricsMove](https://lyricsmove.com/pricing) | Lyric video maker: upload a song or paste a Suno link for word-timed lyric videos (free 720p) plus optional cartoon AI music videos | **30% OFF** one-time Pro songs, Starter Packs & AI MVs with auto-applied code `BF2026` ($3.90 → $2.73 / $14.90 → $10.43); extra **40% OFF** first year of Pro/Ultra yearly with `BF2026YEAR` ($199 → $119.40 / $499 → $299.40, through Dec 1) | ✅ |
 | [Shorvo](https://shorvostudio.com/?utm_source=shashankt255&utm_medium=listing&utm_campaign=bf40) | Windows desktop app: paste a script, get a finished vertical YouTube Short (footage, AI voiceover, timed captions). First 3 videos free | **40% OFF** Pro Lifetime, one-time license ($129 → $77.40) — code `BF40` (until Dec 10) | ✅ |
+| [FireCut](https://firecut.ai/pricing/all/) | AI video editing plugin for Premiere Pro & DaVinci Resolve | 💸 **50% OFF** new annual plans (Max $59 → $29.50/mo, Pro $34 → $17/mo, billed yearly), no code needed (through Nov 30) | ✅ |
+| [MakeItSay](https://makeitsay.com/pricing) | Edit or translate text inside photos, screenshots, and labels while keeping the original font, perspective, and background | **30% OFF** one-time credit packs with auto-applied code `BF2026` ($3 → $2.10 for 6 edits / $10 → $7 for 40 edits); extra **40% OFF** first year of Pro/Studio yearly with `BF2026YEAR` ($200 → $120 / $490 → $294, through Dec 1) | ✅ |
 
 ### AI SEO & Marketing
 
@@ -612,6 +618,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Packt Publishing](https://www.packtpub.com/) | 7,500+ tech eBooks & videos | **50% OFF** eBooks | ⏳ |
 | [Manning](https://www.manning.com/) | LiveBook, MEAP early access | **45% OFF** daily deals running now | ⏳ |
 | [Humble Bundle](https://www.humblebundle.com/) | Games, books & software bundles | **Up to 90% OFF** PC games — FF7 Rebirth $7.50, Choice members extra 20% off | ✅ |
+| [Valenx Interview Bundle](https://valenx.org/go/bf-bundle?utm_source=github&utm_medium=awesome_list&utm_campaign=bf2026) | PM, AI engineer and data science interview playbooks | **30% OFF** with code `BF30` | ✅ |
 
 ## 🎨 Design & Productivity
 
@@ -752,6 +759,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Noteline](https://noteline.io/pricing) | Markdown editor for Mac, Windows & Linux — plain .md files, Pandoc & Typst built in, no account | **50% OFF** one-time license $9.99 → $4.99 (through Nov 30) | ✅ |
 | [shepetal](https://shepetal.app/blog/black-friday-dictation-note-taking-deals?ref=shashankt255-bf) | Dictation and meeting notes for the Mac that run on your Mac, also offline | 💸 ♾️ **80% OFF** lifetime license €24 → €4.80 once, code `BLACKFRIDAY` (Nov 24 – Nov 30) | ✅ |
 | [Kiri](https://project-kiri.com/pricing?utm_source=bf-shashankt255) | Focus timer in one browser tab: dial, task list and ten background sounds that go quiet in breaks; free timer, no account | 💸 ♾️ **50% OFF** Lifetime (€39 → €19.50) — code `BF2026` (Nov 25 – Dec 1) | ✅ |
+| [PuzzleBind](https://puzzlebind.com/black-friday/?utm_source=github&utm_medium=awesome_list&utm_campaign=bf2026) | Printable word search, Sudoku and maze maker that exports whole KDP-ready puzzle books (web) | ♾️ **$14** one-time (regular $19) through Nov 30, no code needed | ✅ |
 
 ### Automation
 
@@ -1146,7 +1154,7 @@ This repo is maintained annually. Archives will be preserved as `README_2026.md`
 
 ---
 
-**Last updated:** November 25, 2026
+**Last updated:** November 26, 2026
 
 **Disclaimer:** Prices and availability may change. Always verify on the vendor's official site before purchasing. This repo is community-maintained and not affiliated with any listed vendor.
 
