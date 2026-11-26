@@ -788,6 +788,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Terlido](https://terlido.com/) | Cold email & newsletters with warmup and AI agent | **40% OFF** 12 months — code `BF2026` | ✅ |
 | [Sequenzy](https://www.sequenzy.com/) | Lifecycle email tool for SaaS products | **30% OFF** for a full year — code `BLACKFRIDAY` | ✅ |
 | [SwiftERM](https://swifterm.com/black-friday/) | Autonomous individualisation for ecommerce email marketing | **40% OFF** first 12 months — code `BLACKFRIDAY26` (new customers, after 30-day free trial) | ✅ |
+| [Caddy Docs](https://apps.apple.com/us/app/caddy-docs/id6802867430?mt=12) | Files, PDFs and notes in tabs at the edge of your Mac, with animated desktop pets | **38% OFF** one-time purchase ($21 → $12.99) on the Mac App Store, no code, through Dec 1 | ✅ |
 
 ## 🌐 WordPress & No-Code
 
