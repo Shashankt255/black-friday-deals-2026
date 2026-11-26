@@ -1,6 +1,6 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2025%2C%202026-brightgreen)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2026%2C%202026-brightgreen)](#)
 [![Deals](https://img.shields.io/badge/Total%20Deals-738-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
@@ -10,7 +10,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 
 > 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
 
-> ⭐ **Found this useful? [Star this repo](https://github.com/Shashankt255/black-friday-deals-2026/stargazers) to help it trend on Black Friday!** We're at 8 stars and 102 forks — your star makes a difference.
+> ⭐ **Found this useful? [Star this repo](https://github.com/Shashankt255/black-friday-deals-2026/stargazers) to help it trend on Black Friday!** We're at 11 stars and 118 forks — your star makes a difference.
 
 **🗓️ Black Friday: November 27, 2026 | Cyber Monday: November 30, 2026**
 
@@ -36,6 +36,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 
 ### 🆕 What's New (Updated Daily)
 
+- **Nov 26 (BF Eve)** — 🔥 **Black Friday flip pass:** 6 deals ⏳→✅ — White Knight Labs (50% OFF certs, code `WKLBLACKFRIDAY26`), natbox (50% OFF for life VPS), Perisclaw (40% OFF), CVder (50% OFF, code `BF2026`), Packt (50% OFF eBooks + ExpertEdge, code `CIPHERS50`), Manning (45% OFF daily deals). 26 deals still ⏳ — checking remaining on BF day.
 - **Nov 26** — Merged 17 community PRs (#128–#146): Kiri, ReUI, Wassenger, Quiet Winners, Meetily, GridPin, FrameGloss, WhatsTeam, Screenpipe, Shorvo, PuzzleBind, Valenx Interview Bundle, Autentique, FireCut, Vibe Island, MakeItSay, Crabsmith, Rebit Pro. 735 total deals. **BF tomorrow!**
 - **Nov 25** — Merged 7 community PRs (#121–#127): shepetal, A1, AI Tool Trek, LyricsMove, Clothsy AI, Whizi, SiteData. Closed #120 (duplicate of #125). 717 total deals.
 - **Nov 24 (PM4)** — Added 15 curated deals: Monitorable, GitKraken, RenewRoster (dev), Carry, Convika, SharpAPI (AI), SurfacedBy (SEO), daisyUI (design), Noteline (productivity), Directify (no-code), Shot Video (video), Zero To Mastery, Code With Mosh, VueSchool, Hello Interview (courses). 710 total deals.
@@ -293,7 +294,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [RedTeamLeaders](https://redteamleaders.com/) | Red team certifications | 💸 **50% OFF** all certs | ✅ |
 | [Practical TLS](https://www.practicalnetworking.net/) | TLS/SSL deep-dive by Practical Networking | 💸 **83% OFF** lifetime access ($297 → $50) | ✅ |
 | [Wireshark Labs](https://www.wiresharklabs.com/) | Wireshark Certified Associate labs | 💸 **50% OFF** WCA Labs ($199.99 → $99.99), Ranger Lab $249.99 → $179.99 — code `PACKETFRIDAY` (through Dec 1) | ✅ |
-| [White Knight Labs](https://whiteknightlabs.com/) | Offensive security certs (ELPT, OADOC, ARTOC, ODPC, OAOTC, OGOTC, ASCPC) | 💸 **50% OFF** all certs + bundles & Academy passes — code `WKLBLACKFRIDAY26` (Nov 27 – Dec 18) | ⏳ |
+| [White Knight Labs](https://whiteknightlabs.com/) | Offensive security certs (ELPT, OADOC, ARTOC, ODPC, OAOTC, OGOTC, ASCPC) | 💸 **50% OFF** all certs + bundles & Academy passes — code `WKLBLACKFRIDAY26` (Nov 27 – Dec 18) | ✅ |
 | [OnlySecurity](https://onlysecurity.com/black-friday/) | Cybersecurity courses & labs | **15% OFF** courses, Plus, Max — auto-applied (Nov 23 – Nov 30) | ✅ |
 | [SecurityPaths Academy](https://academy.securitypaths.com/) | WiFi pentesting (CWP) & recon (CRP) certifications with labs | **25% OFF** — code `blackfriday26` (Nov 21 – Nov 30) | ✅ |
 | [OffSec (OSCP)](https://www.offsec.com/) | OSCP+ training, PEN-200, labs & 2 exam attempts | **20% OFF** Learn One — $2,199/yr (reg $2,749, through Jan 4, 2027) | ✅ |
@@ -422,7 +423,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Vultr](https://www.vultr.com/) | Cloud VPS (17 locations) | $100 free credit / 30 days (standing offer) | ℹ️ |
 | [Zooku](https://www.zooku.ro/) | Budget EU web hosting | 💸 **70-90% OFF** — from €3/mo | ✅ |
 | [Database Mart](https://www.databasemart.com/) | VPS, GPU VPS & dedicated servers | **Linux VPS from $1.25/mo** — codes `TCRD4911` / `TCXR2333` (through Nov 28) | ✅ |
-| [natbox](https://my.natbox.io/products/nat-vps) | NAT VPS in EU — small Linux servers, root SSH, IPv6 | **50% OFF for life** yearly — code `BLACKFRIDAY` (Nov 27 only, 25 servers) | ⏳ |
+| [natbox](https://my.natbox.io/products/nat-vps) | NAT VPS in EU — small Linux servers, root SSH, IPv6 | **50% OFF for life** yearly — code `BLACKFRIDAY` (Nov 27 only, 25 servers) | ✅ |
 
 ### Domains
 
@@ -456,7 +457,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Refine](https://refine.sh/) | Offline AI writing assistant for Mac with grammar and autocomplete (36 languages, local models) | **35% OFF** one-time license, no code needed (Nov 15 - Nov 30) | ✅ |
 | [AI Toolbox](https://www.ai-toolbox.co/) | Collection of AI tools in one app — text, image, code, chat | 💸 **50% OFF** Lifetime $49.50 — code `BLACKFRIDAY` (Nov 2 – Nov 30) | ✅ |
 | [TypeBoost](https://typeboost.ai/) | AI writing in every app on Mac, plus an iPhone keyboard | **50% OFF** first year of Pro annual ($60 → $30) — code `TYPEBOOST50` (Nov 23 – Nov 30) | ⏳ |
-| [Perisclaw](https://perisclaw.com/pricing) | AI assistant that automates your work on WhatsApp: follow-ups, reminders and tasks | **40% OFF** annual plan ($200 → $120/yr), no code needed (Nov 27 – Dec 1) | ⏳ |
+| [Perisclaw](https://perisclaw.com/pricing) | AI assistant that automates your work on WhatsApp: follow-ups, reminders and tasks | **40% OFF** annual plan ($200 → $120/yr), no code needed (Nov 27 – Dec 1) | ✅ |
 | [1minAI](https://1min.ai/) | Multi-model AI platform (GPT, Claude, Gemini) | 💸 **86% OFF** Advanced Business Lifetime | ✅ |
 | [PDF Pals](https://pdfpals.com/) | AI-powered PDF reader and chat | ♾️ **Lifetime $149**; 20% OFF Basic/Plus — code `BF20` | ✅ |
 | [FastScribe](https://fastscribe.org/pricing) | Web app for audio/video and social-link transcription, subtitles and AI summaries. | **$31 off** Pro first year: $89 (normally $120/year), then $120/year; 6,500 bonus credits valid 365 days. Accounts without an active subscription only; no code needed. (Nov 17–30, 2026; ends 11:59 PM Pacific) | ✅ |
@@ -487,7 +488,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [ScribeToAny](https://scribetoany.com/pricing) | Audio/video files and links to transcripts, SRT/VTT subtitles & AI summaries (~98 languages, web) | **30% OFF** first month — code `FIRST_30_OFF`, or **$20 OFF** first year — code `FIRST_20_OFF`, plus bonus minutes (Nov 17 – Nov 30) | ✅ |
 | [Narration Box](https://narrationbox.com/pricing) | AI voice generator for audiobooks & voiceovers: PDF/EPUB/DOCX to narration in 80+ languages, voice cloning, free plan | 💸 **55% OFF** first year of all annual plans, auto-applied (Nov 22 – Dec 2) | ✅ |
 | [Outlier](https://outlier.host/pricing/) | Run open AI models on your Mac offline: chat + coding agent for your own codebase | ♾️ **$16.99 one-time** through Dec 2 (then $39), auto-applied | ✅ |
-| [CVder](https://cvder.app/pricing) | AI job application tool: tailors CV to each job posting + cover letter | 💸 **50% OFF** first payment on any Pro plan — code `BF2026` (Nov 27 – Dec 1) | ⏳ |
+| [CVder](https://cvder.app/pricing) | AI job application tool: tailors CV to each job posting + cover letter | 💸 **50% OFF** first payment on any Pro plan — code `BF2026` (Nov 27 – Dec 1) | ✅ |
 | [Stashkin](https://stashkin.com/) | Export ChatGPT conversations to DOCX, PDF & Markdown | 💸 **50% OFF** Pro Annual — code `BF2026` (Nov 22 – Dec 1) | ✅ |
 | [SupaYatta](https://supayatta.com/) | AI agent monitor — track what agents do on your Mac | 💸 **65% OFF** ($6.99) — code `YATTADEAL` (Nov 9 – Dec 7) | ✅ |
 | [Leelo](https://leelo-ai.com/black-friday) | AI voice studio: text to speech with 1,150+ voices, video dubbing, voice cloning & transcription (web) | ♾️ **25% OFF** Lifetime — Basic $79 → $59 (35,000 credits/month), Pro $199 → $149 (80,000 credits/month), plus **50% more credits** on every pack, no code needed (Nov 24 – Dec 1) | ✅ |
@@ -616,8 +617,8 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | Product | Description | Deal | Status |
 |---------|-------------|------|--------|
 | [No Starch Press](https://nostarch.com/) | Security, Linux, Python, hacking books | **40% OFF** sitewide, no code needed (Nov 24 – Nov 29) | ✅ |
-| [Packt Publishing](https://www.packtpub.com/) | 7,500+ tech eBooks & videos | **50% OFF** eBooks | ⏳ |
-| [Manning](https://www.manning.com/) | LiveBook, MEAP early access | **45% OFF** daily deals running now | ⏳ |
+| [Packt Publishing](https://www.packtpub.com/) | 7,500+ tech eBooks & videos | **50% OFF** eBooks & ExpertEdge yearly plan — code `CIPHERS50` | ✅ |
+| [Manning](https://www.manning.com/) | LiveBook, MEAP early access | **45% OFF** daily deals running now | ✅ |
 | [Humble Bundle](https://www.humblebundle.com/) | Games, books & software bundles | **Up to 90% OFF** PC games — FF7 Rebirth $7.50, Choice members extra 20% off | ✅ |
 | [Valenx Interview Bundle](https://valenx.org/go/bf-bundle?utm_source=github&utm_medium=awesome_list&utm_campaign=bf2026) | PM, AI engineer and data science interview playbooks | **30% OFF** with code `BF30` | ✅ |
 
