@@ -268,6 +268,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Vibe Island](https://vibeisland.app/?ref=shashankt) | macOS notch panel for Claude Code, Codex, Cursor and 27 more AI coding agents | **40% OFF** 1 Mac ($19.99 → $11.99), 2 Macs $21.99, 3 Macs $31.99, no code needed (Nov 25 – Dec 1) | ✅ |
 | [Crabsmith](https://crabsmith.com/#pricing) | Hosted control panel for Ubuntu servers: deploy Laravel, Node.js and Next.js over SSH with Caddy HTTPS | **40% OFF for life**, any plan — code `BLACKFRIDAY40` (through Dec 1) | ✅ |
 | [Pixels71](https://www.pixels71.com/pricing) | Website templates for Framer, Next.js and Astro, plus Figma design files | ♾️ **40% OFF** the All-Access Pass, $59 once (was $99), no code needed (Nov 24 – Dec 1) | ✅ |
+| [Staxa](https://staxa.dev/#pricing) | Hosting for SaaS with an isolated app, database, subdomain and SSL per customer, set up from a dashboard or one API call | 💸 **50% OFF** the first 3 months of Starter ($49 → $24.50/mo) or Growth ($199 → $99.50/mo) — code `STAXABF50` (Nov 27 – Nov 30, 2026) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
