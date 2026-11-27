@@ -1144,6 +1144,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [PageCub](https://pagecub.com/pricing) | Personalized illustrated children's storybook written around your child — 10 chapters, 20 custom illustrations, 49-page PDF by email in about an hour (web) | **25% OFF** the digital storybook ($19.99 → ~$14.99), applied automatically at checkout, no code (Nov 27 – Dec 25) | ✅ |
 | [Our Family Album](https://ourfamilyalbum.com/black-friday/) | Private family album for photos and videos (iPhone/iPad) | 💸 **50% OFF** Premium yearly ($49.99 → $24.99), no code (Nov 27 – Dec 1) | ✅ |
 
+| [ScopeForge Studio](https://tolga571.github.io/black-friday-2026.html) | Offline WBS risk estimator and SOW PDF/Excel generator for freelance devs (web) | 💸 **40%–60% OFF** ($4.00 → $1.60 `FIRST10` first 10, $2.40 `SCOPE40`, Nov 27–Dec 1) | ✅ |
 ---
 
 ## 🗓️ Retailer Event Schedules
