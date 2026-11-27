@@ -778,6 +778,9 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Caddy Docs](https://apps.apple.com/us/app/caddy-docs/id6802867430?mt=12) | Files, PDFs and notes in tabs at the edge of your Mac, with animated desktop pets | **38% OFF** one-time purchase ($21 → $12.99), no code, through Dec 1 | ✅ |
 | [XeOS: External Display Desktop](https://apps.apple.com/us/app/xeos-external-display-desktop/id6758286241) | Desktop mode for iPhone and iPad: windows, files, mouse and keyboard and a real browser on any external display | **25% OFF** lifetime ($39.99 → $29.99) — code `XEOSREDDIT` (Nov 27 – Dec 1) | ✅ |
 | [Voxipaw](https://voxipaw.kionesis.com/) | Focus timer in the browser with a voxel pet that grows up while you focus (puppy, kitten, bunny, capybara, otter or crocodile) | 💸 ♾️ **51% OFF** Lifetime Plus $99.99 → $49, no code (Nov 25 – Dec 1) | ✅ |
+| [Email Me](https://emailmeapp.net/black-friday.php) | Voice or text notes to your inbox in one tap, AI transcription (iOS, Mac, Watch) | **23% OFF** Premium yearly ($12.99 → $9.99), no code (Nov 27 – Dec 1) | ✅ |
+
+
 
 ### Automation
 
@@ -1079,6 +1082,10 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [BatchMark](https://batchmark.dispatchcat.com/holiday-sale/) | iPhone/iPad photo app — batch watermark up to 100 photos, art frames, Color Walk cards and Photo Stories, all on-device | 💸 ♾️ **50% OFF** Lifetime ($79.99 → $39.99), auto-applied, no code (Nov 15 – Dec 25, 2026) | ✅ |
 | [FrameGloss](https://framegloss.app/?deal=blackfriday&utm_source=shashankt-bf2026&utm_medium=deal-list&utm_campaign=bf2026) | Browser-based Screen Studio alternative — spring zooms, macOS/browser frames, 9:16/4:5 smart crop & callouts, 100% local WebCodecs MP4/GIF | 💸 ♾️ **50% OFF** Pro Lifetime ($15 → $7.50, one-time) — code `BLACKFRIDAY` (Nov 24 – Nov 30, 2026) | ✅ |
 | [AI Teleprompter](https://aiteleprompterapp.com) | Voice-follow teleprompter for iPhone/iPad — the script scrolls as you speak, plus floating mode and one-tap recording for talking-head videos | 💸 ♾️ **50% OFF** Annual first year ($39.99 → $19.99) & Lifetime ($49.99 → $24.99), auto-applied, no code (Nov 20, 2026 – Jan 1, 2027) | ✅ |
+| [Digital Photo Frame](https://digitalphotoframeapp.com/black-friday/) | Turn your iPhone or iPad into a smart photo frame with slideshows | **50% OFF** Premium yearly ($19.99 → $9.99), no code (Nov 27 – Dec 1) | ✅ |
+| [Photo Booth App](https://thephotoboothapp.com/black-friday/) | Turn an iPhone or iPad into a photo booth for events | **50% OFF** yearly plan ($99.99 → $49.99), no code (Nov 27 – Dec 1) | ✅ |
+
+
 
 ## 🏋️ Health, Fitness & Lifestyle
 
@@ -1135,6 +1142,9 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [PageCub](https://pagecub.com/pricing) | Personalized illustrated children's storybook written around your child — 10 chapters, 20 custom illustrations, 49-page PDF by email in about an hour (web) | **25% OFF** the digital storybook ($19.99 → ~$14.99), applied automatically at checkout, no code (Nov 27 – Dec 25) | ✅ |
 
 ---
+| [Our Family Album](https://ourfamilyalbum.com/black-friday/) | Private family album for photos and videos (iPhone/iPad) | **50% OFF** Premium yearly ($49.99 → $24.99), no code (Nov 27 – Dec 1) | ✅ |
+
+
 
 ## 🗓️ Retailer Event Schedules
 
