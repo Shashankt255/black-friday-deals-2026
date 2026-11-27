@@ -1133,7 +1133,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | Product | Description | Deal | Status |
 |---------|-------------|------|--------|
 | [PageCub](https://pagecub.com/pricing) | Personalized illustrated children's storybook written around your child — 10 chapters, 20 custom illustrations, 49-page PDF by email in about an hour (web) | **25% OFF** the digital storybook ($19.99 → ~$14.99), applied automatically at checkout, no code (Nov 27 – Dec 25) | ✅ |
-
+| [ScopeForge Studio](https://tolga571.github.io/black-friday-2026.html) | Offline WBS risk estimator and Statement of Work PDF and Excel generator for freelance developers (web) | 💸 **40% to 60% OFF** ($4.00 to $1.60 w/ `FIRST10` first 10, or $2.40 w/ `SCOPE40`, Nov 27 to Dec 1) | ✅ |
 ---
 
 ## 🗓️ Retailer Event Schedules
