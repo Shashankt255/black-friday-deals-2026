@@ -1053,6 +1053,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [AY Grants](https://grants.ayskilllab.com/#pricing) | Open government grants in the US, EU and UK in one list, by deadline, with saved searches and nightly alerts | 💸 **50% OFF** first month on the monthly plan — $9 → $4.50, auto-applied, no code, then normal price (Nov 22 – Nov 30) | ✅ |
 | [MoneyWiz](https://moneywiz.onfastspring.com/) | Personal finance tracker for Mac, iPhone & iPad | **20% OFF** first year — code `BFCM26` (Nov 13 – Dec 1) | ✅ |
 | [TotalFigures](https://totalfigures.app/) | Personal finance tracker & budget planner | 💸 ♾️ **88% OFF** Premium Lifetime ($9.59, reg ~$80) (Nov 21 – Dec 3) | ✅ |
+| [Galore](https://trygalore.com/) | Social investing app: turn a belief or any post (TikTok, YouTube, X) into stock ideas, test an idea on past prices, follow the public trades of creators and investors, and approve every trade yourself. Paper trading today; live trading not yet available. Not investment advice | **Free access** to the entire platform now, plus **20% OFF** membership when it opens ($89.99/yr or $11.99/mo), code `BLACKFRIDAY` (Nov 28 – Dec 1) | ✅ |
 
 ## 🎬 Streaming & Entertainment
 
