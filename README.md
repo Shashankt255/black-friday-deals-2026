@@ -784,6 +784,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Email Me](https://emailmeapp.net/black-friday.php) | Voice or text notes to your inbox in one tap, AI transcription (iOS, Mac, Watch) | **23% OFF** Premium yearly ($12.99 → $9.99), no code (Nov 27 – Dec 1) | ✅ |
 | [Mole](https://mole.fit/) | Native Mac app to clean caches, uninstall apps and analyze disk space | **20% OFF** one-time license ($19 → $15.20), no code needed (Nov 25 – Nov 30) | ✅ |
 | [Yado](https://yado.house/) | Manage and clean up your iPhone from your Mac | **20% OFF** one-time license ($19 → $15.20), no code needed (Nov 27 – Nov 30) | ✅ |
+| [iKnow Suite: iKnowMyMac + iKnowMyDisplay](https://iknowmymac.com/#pricing) | Two Apple silicon menu bar apps on one key: Mac activity history + hidden display controls | **25% OFF** one-time $7.99 → $5.99, no code, while launch licences last (Nov 27 – Dec 1) | ✅ |
 
 ### Automation
 
