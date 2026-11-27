@@ -573,6 +573,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [SharpAPI](https://sharpapi.com/en/pricing) | AI workflow automation API: product descriptions, resume parsing, SEO tags and more | **40% OFF** every plan for 12 months — code `BF2026` (ends Nov 30) | ✅ |
 | [Convika](https://convika.com/black-friday/) | Turn AI-generated HTML into shareable links with analytics + MCP server for Claude/Codex | **50% OFF** Pro yearly $108 → $54/yr, no code (Nov 23 – Dec 31) | ✅ |
 | [AltTextLab](https://alttextlab.com/black-friday) | AI alt text generator for every image on a site, 130+ languages, WordPress/Shopify/Webflow | **40% OFF** credit packs and first year of Pro annual — code `BF2026` (Nov 17 – Dec 1) | ✅ |
+| [Notra](https://www.usenotra.com/pricing) | AI visibility tracking: see whether ChatGPT, Claude, Gemini, Copilot & Google AI recommend your brand, track AI crawler & referral traffic, and write content that gets cited | **25% OFF** every paid plan for the first 6 months (Starter $100 → $75/mo), new customers on monthly billing, no code needed (through Dec 2, 23:59 GMT) | ✅ |
 
 ### No BF Deal Expected
 
