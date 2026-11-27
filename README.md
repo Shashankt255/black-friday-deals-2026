@@ -791,6 +791,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Fridge: Lock Screen Notes](https://apps.apple.com/app/id6794317782) | Shopping list or to-do note on the iPhone Lock Screen, ticked off without unlocking and shareable with family | ♾️ **40% OFF** Fridge Plus Lifetime $4.99 → $2.99 (US App Store), auto-applied (Nov 26 – Dec 1) | ✅ |
 | [Domenu](https://domenu.kalifi.ai/recipe-app-no-subscription/) | Offline-first iOS recipe keeper, weekly meal planner & grocery list; saves from Instagram/TikTok captions & web, imports Paprika | **96% OFF** Lifetime IAP ($24.99 → **$0.99**), automatic in-app discount (Nov 24 – Nov 30) | ✅ |
 | [iKnow Suite: iKnowMyMac + iKnowMyDisplay](https://iknowmymac.com/#pricing) | Two Apple silicon menu bar apps on one key: Mac activity history + hidden display controls | **25% OFF** one-time $7.99 → $5.99, no code, while launch licences last (Nov 27 – Dec 1) | ✅ |
+| [Aloud](https://aloudapp.app/black-friday/) | Native macOS app that reads selected text, PDFs, screenshots and web articles out loud | **30% OFF** — code `BF30` (Nov 27 – Dec 1, 2026) | ✅ |
 
 ### Automation
 
