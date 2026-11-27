@@ -432,6 +432,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Zooku](https://www.zooku.ro/) | Budget EU web hosting | 💸 **70-90% OFF** — from €3/mo | ✅ |
 | [Database Mart](https://www.databasemart.com/) | VPS, GPU VPS & dedicated servers | **Linux VPS from $1.25/mo** — codes `TCRD4911` / `TCXR2333` (through Nov 28) | ✅ |
 | [natbox](https://my.natbox.io/products/nat-vps) | NAT VPS in EU — small Linux servers, root SSH, IPv6 | **50% OFF for life** yearly — code `BLACKFRIDAY` (Nov 27 only, 25 servers) | ✅ |
+| [Beam](https://www.beam.cloud/pricing) | Serverless GPUs, sandboxes & VMs for AI apps | **2x credits** — purchases matched 1:1, up to $100 free, auto-applied (Nov 27 – Nov 30) | ✅ |
 
 ### Domains
 
