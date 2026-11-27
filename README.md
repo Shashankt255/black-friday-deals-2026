@@ -273,7 +273,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Exit Loop](https://www.exitloop.app/black-friday) | Cancel flows and failed-payment recovery for SaaS companies that bill with Stripe | 💸 **50% OFF** first year of the yearly plan ($149 → $74.50) — code `BLACKFRIDAY50` (Nov 26 – Dec 1, new customers) | ✅ |
 | [Pake](https://pake.run/) | Turn any website into a lightweight desktop app for Mac, Windows and Linux | **20% OFF** one-time license ($19 → $15.20), no code needed (Nov 27 – Nov 30) | ✅ |
 | [APXY](https://apxy.dev/) | Local HTTP/HTTPS debugging proxy with CLI + MCP so coding agents can verify the real requests their code sends (macOS, Linux) | **30% OFF** Pro one-time licence for 3 devices ($99 → $69.30) — code `APXY2026` | ✅ |
-| [Context.dev](https://www.context.dev/pricing) | Web search, scraping and crawling APIs for AI agents and applications. | **30% OFF** paid plans for **1 year**, automatically applied; no code needed. Developer $20 → $14/month; ends Dec 1, 2026 | ✅ |
+| [Context.dev](https://www.context.dev/pricing) | Web search, scraping and crawling APIs for AI agents and applications. | **30% OFF** new purchases of paid plans for **1 year**, automatically applied; no code needed. Developer $20 → $14/month; ends Dec 1, 2026 | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
