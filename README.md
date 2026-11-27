@@ -1,12 +1,12 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2027%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-772-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-779-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 772 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
+The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 779 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
 > 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
 
@@ -36,6 +36,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 
 ### 🆕 What's New (Updated Daily)
 
+- **Nov 27 (BLACK FRIDAY PM)** — Merged 6 community PRs (#173–#178): APXY, OSINTverse, SILVER, Fridge, Domenu, iKnow Suite, ScopeForge Studio. Stripped affiliate/tracking params from SILVER, Fridge, Domenu URLs. Flipped 2 more deals ⏳→✅: Canva Pro (50% OFF first 3 months, new subs), Capture One Pro (up to 30% OFF, ends today). **779 total deals, 19 still ⏳.** Next pass: Cyber Monday Nov 30.
 - **Nov 27 (BLACK FRIDAY)** — 🔥 **BF day flip pass:** 5 deals ⏳→✅ — TryHackMe (40% OFF Premium/MAX + certs, ends tonight!), Grammarly (50% OFF Pro, $72/yr), GOG.com (up to 95% OFF, 3K+ games), Kindle+ (fka Kindle Unlimited, $0.99/3 months), Calm (50% OFF first year). Merged 13 community PRs (#156–#168): Exit Loop, Java Libraries Vol 1&2, XeOS, Startup Buffer, VibeShield/CiteReady URL update, Sky OS AI, Channel Surfer, AI Teleprompter, PLANE.DEALS, Unmerge, BlueChimp, PageCub (new Kids & Family subsection), Voxipaw. Cleaned tracking params. **762 total deals, 21 still ⏳.** Next pass: Cyber Monday Nov 30.
 - **Nov 26 (BF Eve)** — 🔥 **Black Friday flip pass:** 6 deals ⏳→✅ — White Knight Labs (50% OFF certs, code `WKLBLACKFRIDAY26`), natbox (50% OFF for life VPS), Perisclaw (40% OFF), CVder (50% OFF, code `BF2026`), Packt (50% OFF eBooks + ExpertEdge, code `CIPHERS50`), Manning (45% OFF daily deals). Merged 8 community PRs (#148–#155): ImagineYourBook, Caddy Docs, Linguise, Cloudways update, Pixels71, Switchy, Scarlet Shark, PasteNotch. **749 total deals.** 26 still ⏳ — checking remaining on BF day.
 - **Nov 26** — Merged 17 community PRs (#128–#146): Kiri, ReUI, Wassenger, Quiet Winners, Meetily, GridPin, FrameGloss, WhatsTeam, Screenpipe, Shorvo, PuzzleBind, Valenx Interview Bundle, Autentique, FireCut, Vibe Island, MakeItSay, Crabsmith, Rebit Pro. 735 total deals. **BF tomorrow!**
@@ -271,6 +272,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Pixels71](https://www.pixels71.com/pricing) | Website templates for Framer, Next.js and Astro, plus Figma design files | ♾️ **40% OFF** the All-Access Pass, $59 once (was $99), no code needed (Nov 24 – Dec 1) | ✅ |
 | [Exit Loop](https://www.exitloop.app/black-friday) | Cancel flows and failed-payment recovery for SaaS companies that bill with Stripe | 💸 **50% OFF** first year of the yearly plan ($149 → $74.50) — code `BLACKFRIDAY50` (Nov 26 – Dec 1, new customers) | ✅ |
 | [Pake](https://pake.run/) | Turn any website into a lightweight desktop app for Mac, Windows and Linux | **20% OFF** one-time license ($19 → $15.20), no code needed (Nov 27 – Nov 30) | ✅ |
+| [APXY](https://apxy.dev/) | Local HTTP/HTTPS debugging proxy with CLI + MCP so coding agents can verify the real requests their code sends (macOS, Linux) | **30% OFF** Pro one-time licence for 3 devices ($99 → $69.30) — code `APXY2026` | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
@@ -383,6 +385,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [SmartUsername Pro](https://smartusername.com/black-friday/) | WordPress plugin that hides login names from author URLs, REST API & oEmbed | 💸 ♾️ **60% OFF** yearly plans, Agency lifetime $299 → $149, no code (through Dec 1) | ✅ |
 | [SimpleumSafe](https://simpleum.com/) | Encrypted file safe for Mac with AES-256 | **30% OFF** all plans | ✅ |
 | [Zero-Trace Ship Kit](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/) | Git hooks that stop commit/push when leaked keys, home paths or emails are found, plus clean release ZIPs | ♾️ **40% OFF** Solo licence — code `FOUNDER10` (first 100 uses) | ✅ |
+| [OSINTverse](https://osintverse.com/pricing) | OSINT search across 17 sources from one box, with cases, a team graph, an API and an MCP server; pay per lookup | **10% OFF** any credit top-up, wallet credited the full amount — code `BLACKFRIDAY10` (through Nov 30, 23:59 UTC) | ✅ |
 
 ## ☁️ Cloud, Hosting & Domains
 
@@ -514,7 +517,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 |---------|-------------|------|--------|
 | [Hostinger AI Builder](https://www.hostinger.com/) | AI website builder + hosting | **Up to 85% OFF** | ✅ |
 | [Pictory](https://pictory.ai/) | AI video creation from text | **50% OFF** annual — code `BLACKFRIDAY2026` | ✅ |
-| [Canva Pro](https://www.canva.com/) | Design + AI image generation | ~50% OFF first 3 months | ⏳ |
+| [Canva Pro](https://www.canva.com/) | Design + AI image generation | **50% OFF** first 3 months Pro/Business — new subscribers only (~Nov 19 – Dec 4) | ✅ |
 | [Renderly](https://renderly.video/pricing) | Video rendering API: JSON template and data in, MP4 out | **30% OFF** first payment of Creator or Business - code `BLACKFRIDAY2026` (Nov 27 - Dec 1) | ✅ |
 | [Higgsfield](https://higgsfield.ai/) | AI video generation (Ultra plan) | **60% OFF** annual — $50/mo (reg $129) | ✅ |
 | [Colossyan](https://www.colossyan.com/) | AI video generation with realistic avatars | **40% OFF** yearly — code `BLACKFRIDAY40` | ✅ |
@@ -668,6 +671,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Backdrop](https://cindori.com/backdrop) | Interactive live wallpapers for your Mac's Lock Screen and desktop | ♾️ **30% OFF** Lifetime $29.99 → $20.99, no code needed (Nov 24 – Dec 1) | ✅ |
 | [daisyUI](https://daisyui.com/store/) | Tailwind CSS UI component library — official templates and themes | **Up to 45% OFF** — code `BF26TZXLP` (discount drops each day) | ✅ |
 | [A1](https://www.a1.gallery/pricing) | Hand-picked gallery of real, live websites for design inspiration, with sections, full pages, fonts and colours for each site | **33% OFF** Pro yearly $72 → $48/yr, kept while subscribed, no code needed (Nov 19 – Nov 30) | ✅ |
+| [SILVER: Black & White Camera](https://apps.apple.com/app/id6813106996) | Black-and-white film camera for iPhone and iPad with six free films and a private photo journal, no subscription | ♾️ **40% OFF** SILVER Pro one-time unlock $4.99 → $2.99 (US App Store), auto-applied (Nov 26 – Dec 1) | ✅ |
 
 ### SEO & Marketing
 
@@ -784,6 +788,9 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Email Me](https://emailmeapp.net/black-friday.php) | Voice or text notes to your inbox in one tap, AI transcription (iOS, Mac, Watch) | **23% OFF** Premium yearly ($12.99 → $9.99), no code (Nov 27 – Dec 1) | ✅ |
 | [Mole](https://mole.fit/) | Native Mac app to clean caches, uninstall apps and analyze disk space | **20% OFF** one-time license ($19 → $15.20), no code needed (Nov 25 – Nov 30) | ✅ |
 | [Yado](https://yado.house/) | Manage and clean up your iPhone from your Mac | **20% OFF** one-time license ($19 → $15.20), no code needed (Nov 27 – Nov 30) | ✅ |
+| [Fridge: Lock Screen Notes](https://apps.apple.com/app/id6794317782) | Shopping list or to-do note on the iPhone Lock Screen, ticked off without unlocking and shareable with family | ♾️ **40% OFF** Fridge Plus Lifetime $4.99 → $2.99 (US App Store), auto-applied (Nov 26 – Dec 1) | ✅ |
+| [Domenu](https://domenu.kalifi.ai/recipe-app-no-subscription/) | Offline-first iOS recipe keeper, weekly meal planner & grocery list; saves from Instagram/TikTok captions & web, imports Paprika | **96% OFF** Lifetime IAP ($24.99 → **$0.99**), automatic in-app discount (Nov 24 – Nov 30) | ✅ |
+| [iKnow Suite: iKnowMyMac + iKnowMyDisplay](https://iknowmymac.com/#pricing) | Two Apple silicon menu bar apps on one key: Mac activity history + hidden display controls | **25% OFF** one-time $7.99 → $5.99, no code, while launch licences last (Nov 27 – Dec 1) | ✅ |
 
 ### Automation
 
@@ -1078,7 +1085,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 |---------|-------------|------|--------|
 | [Topaz Labs](https://www.topazlabs.com/sale) | AI photo/video enhancement | **Up to 67% OFF** bundles, 15% OFF annual single apps — Studio $299/yr (reg $499), existing users all apps $99/yr (through Dec 1) | ✅ |
 | [Skylum Luminar](https://skylum.com/) | AI photo editor (renamed from Luminar Neo) | **Up to 77% OFF** — $99 Desktop / $139 All Platforms / $159 Max (through Nov 30) | ✅ |
-| [Capture One Pro](https://www.captureone.com/) | RAW processor | ~20-30% OFF (Nov 20–27) | ⏳ |
+| [Capture One Pro](https://www.captureone.com/) | RAW processor | **Up to 30% OFF** subscriptions + style packs, no code (Nov 20 – Nov 27) | ✅ |
 | [Oil Studio](https://studio.oiloil.org/en/) | Native macOS screen recorder & video editor with click auto-zoom and local Whisper transcripts | **20% OFF** launch price ($39 → $31.20, reg $49, one-time) — code `BFCM2026` (Nov 20 – Dec 2) | ✅ |
 | [Deletti](https://deletti.app/) | Free up iPhone space — start with biggest videos/photos, swipe to keep or trash | **50% OFF** Lifetime ($17.99 → $8.99) — code `BFCM26` (through Dec 1) | ✅ |
 | [ZxClip](https://zxclip.com/) | macOS AI video editor — edit video by editing the transcript, filler word removal, voice cloning | 💸 ♾️ **70% OFF** Lifetime ($80 → $24) (through Dec 1) | ✅ |
@@ -1143,6 +1150,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 |---------|-------------|------|--------|
 | [PageCub](https://pagecub.com/pricing) | Personalized illustrated children's storybook written around your child — 10 chapters, 20 custom illustrations, 49-page PDF by email in about an hour (web) | **25% OFF** the digital storybook ($19.99 → ~$14.99), applied automatically at checkout, no code (Nov 27 – Dec 25) | ✅ |
 | [Our Family Album](https://ourfamilyalbum.com/black-friday/) | Private family album for photos and videos (iPhone/iPad) | 💸 **50% OFF** Premium yearly ($49.99 → $24.99), no code (Nov 27 – Dec 1) | ✅ |
+| [ScopeForge Studio](https://tolga571.github.io/black-friday-2026.html) | Offline WBS risk estimator and SOW PDF/Excel generator for freelance devs (web) | 💸 **40–60% OFF** ($4.00 → $1.60 `FIRST10` first 10, $2.40 `SCOPE40`, Nov 27 – Dec 1) | ✅ |
 
 ---
 
