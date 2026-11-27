@@ -1,6 +1,6 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2026%2C%202026-brightgreen)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2027%2C%202026-brightgreen)](#)
 [![Deals](https://img.shields.io/badge/Total%20Deals-749-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
@@ -36,6 +36,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 
 ### 🆕 What's New (Updated Daily)
 
+- **Nov 27 (BLACK FRIDAY)** — 🔥 **BF day flip pass:** 5 deals ⏳→✅ — TryHackMe (40% OFF Premium/MAX + certs, ends tonight!), Grammarly (50% OFF Pro, $72/yr), GOG.com (up to 95% OFF, 3K+ games), Kindle+ (fka Kindle Unlimited, $0.99/3 months), Calm (50% OFF first year). **749 total, 21 still ⏳.** Remaining deals not yet announced — next pass: Cyber Monday Nov 30 (CSA, TypeBoost + recheck).
 - **Nov 26 (BF Eve)** — 🔥 **Black Friday flip pass:** 6 deals ⏳→✅ — White Knight Labs (50% OFF certs, code `WKLBLACKFRIDAY26`), natbox (50% OFF for life VPS), Perisclaw (40% OFF), CVder (50% OFF, code `BF2026`), Packt (50% OFF eBooks + ExpertEdge, code `CIPHERS50`), Manning (45% OFF daily deals). Merged 8 community PRs (#148–#155): ImagineYourBook, Caddy Docs, Linguise, Cloudways update, Pixels71, Switchy, Scarlet Shark, PasteNotch. **749 total deals.** 26 still ⏳ — checking remaining on BF day.
 - **Nov 26** — Merged 17 community PRs (#128–#146): Kiri, ReUI, Wassenger, Quiet Winners, Meetily, GridPin, FrameGloss, WhatsTeam, Screenpipe, Shorvo, PuzzleBind, Valenx Interview Bundle, Autentique, FireCut, Vibe Island, MakeItSay, Crabsmith, Rebit Pro. 735 total deals. **BF tomorrow!**
 - **Nov 25** — Merged 7 community PRs (#121–#127): shepetal, A1, AI Tool Trek, LyricsMove, Clothsy AI, Whizi, SiteData. Closed #120 (duplicate of #125). 717 total deals.
@@ -282,7 +283,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [VantagePoint](https://vantagepointsec.com/) | Hacking labs and certifications | **70% OFF** all labs & certs (Nov 2 – Dec 15) | ✅ |
 | [INE Security](https://ine.com/) | Pentesting, blue team, cloud security | **~37% OFF** Premium annual $499 (reg $799, Nov 20 – Dec 1) | ✅ |
 | [HackTheBox](https://www.hackthebox.com/) | Pentesting labs & Academy | **25-40% OFF** annual plans | ⏳ |
-| [TryHackMe](https://tryhackme.com/) | Beginner-friendly cyber training | **~40% OFF** annual | ⏳ |
+| [TryHackMe](https://tryhackme.com/) | Beginner-friendly cyber training | **40% OFF** annual Premium, MAX & all certs — no code needed (ends Nov 27 23:59 GMT) | ✅ |
 | [TCM Security](https://academy.tcm-sec.com/) | Practical ethical hacking courses | **20% OFF** certifications & live training, 💸 **50% OFF** Academy membership | ✅ |
 | [Wireless Operator](https://thexero.co.uk/wirelessoperator/) | Wi-Fi pentesting course by TheXero | **67% OFF** — $599 → $197 (Nov 10 – Dec 1) | ✅ |
 | [AppSec.training](https://appsec.training/) | Application security & DevSecOps courses | **50% OFF** — code `blackfriday` (Nov 13 – Dec 31) | ✅ |
@@ -447,7 +448,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Sintra AI](https://sintra.ai/) | AI business assistant | **70% OFF** 12-month plan | ✅ |
 | [nexos.ai](https://nexos.ai/) | AI business platform | **75% OFF** annual plan | ✅ |
 | [Jasper](https://www.jasper.ai/) | AI copywriting & marketing | Up to $1000 off annual | ⏳ |
-| [Grammarly](https://www.grammarly.com/) | AI writing assistant | ~50% OFF Pro plans | ⏳ |
+| [Grammarly](https://www.grammarly.com/) | AI writing assistant | **50% OFF** Pro first year ($144 → $72) — ends ~Dec 2 | ✅ |
 | [GetYouTubeTranscript](https://getyoutubetranscript.com/pricing) | YouTube transcripts: web app, Chrome extension, API | ♾️ **Lifetime $149 once** — 3,000 credits/month, first 100 buyers (Nov 14 – Dec 10) | ✅ |
 | [Orwellix](https://orwellix.com/lifetime-deal?utm_source=shashankt-bf2026&utm_medium=deal-directory&utm_campaign=lifetime-deal-2026) | AI writing editor with reviewable agent edits, grammar, readability & plagiarism checks | **47% OFF** vs a year of Premium — Lifetime plan $249 once instead of $468/yr, no code needed, first 300 buyers (Nov 12 – Dec 31) | ✅ |
 | [RewriteBar](https://rewritebar.com/) | AI writing toolkit for macOS: grammar, tone, translate, rewrite in any app | 💸 ♾️ **50% OFF** Lifetime $29 → $14.50 — code `BF2026` (Nov 2 – Dec 3) | ✅ |
@@ -872,7 +873,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [PlayStation Store](https://www.playstation.com/en-us/deals/) | Up to 75% off PS5/PS4 games | Live **Nov 4–30** | ✅ |
 | [Steam](https://store.steampowered.com/specials) | Autumn Sale ended Oct 8; no BF storewide sale | **Winter Sale Dec 17 – Jan 4** | ℹ️ |
 | [Xbox / PC Game Deals](https://www.xbox.com/en-US/promotions/sales/black-friday) | 2,000+ games up to 80% off (console + PC) | **Up to 80% OFF** — live Nov 19, through Dec 2; more deals Nov 23 | ✅ |
-| [GOG.com](https://www.gog.com/) | DRM-free PC games, up to 90% off | Late Nov (TBA) | ⏳ |
+| [GOG.com](https://www.gog.com/) | DRM-free PC games | **Up to 95% OFF** — 3,000+ deals (Nov 25 – Dec 3) | ✅ |
 | [Epic Games Store](https://store.epicgames.com/) | Epic Savings + BF Premium Editions | **Up to 80% OFF** — Epic Savings (Nov 12–26) + Premium Editions (Nov 17–Dec 1) | ✅ |
 | [Rebit Pro](https://rebit.cc/) | Play your own retro games on the web or your phone, with cloud saves and multiplayer. | **40% off** the first year of Pro on the web ($8.99 instead of $14.99) with code **BLACKFRIDAY40** (Nov 22 – Dec 1, 2026) | ✅ |
 
@@ -1041,7 +1042,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Apple TV+](https://tv.apple.com/) | Apple original content | **$6.99/mo** Black Friday deal (reg $12.99) | ✅ |
 | [Paramount+](https://www.paramountplus.com/) | CBS/Paramount streaming | 💸 **50% OFF** Premium annual ($69.99/yr, reg $139.99) — code `SAVEANNUAL50` | ✅ |
 | [Audible](https://www.audible.com/) | Audiobook subscription | 💸 **$0.99/mo** for 3 months + $20 credit (reg $8.99/mo) — ends Dec 28 | ✅ |
-| Kindle Unlimited | Unlimited ebook reading | **$0.99** for 3 months (reg $11.99/mo) | ⏳ |
+| [Kindle+](https://www.amazon.com/kindle-dbs/hz/subscribe/ku) | Unlimited ebook reading (fka Kindle Unlimited) | 💸 **$0.99** for 3 months (reg $11.99/mo) — ends ~Dec 1 | ✅ |
 | [LiveReacting](https://www.livereacting.com/pricing) | Stream pre-recorded videos and 24/7 live channels to YouTube, Twitch & Facebook | 💸 **50% OFF** all plans | ✅ |
 
 ### Music Production
@@ -1107,7 +1108,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | Product | Description | Deal | Status |
 |---------|-------------|------|--------|
 | [Headspace](https://www.headspace.com/) | Meditation & mindfulness | **50% OFF** first year (~$34.99) — Nov 12 – Dec 4 | ✅ |
-| [Calm](https://www.calm.com/) | Sleep & meditation | **40-50% OFF** | ⏳ |
+| [Calm](https://www.calm.com/) | Sleep & meditation | **50% OFF** first year Premium — in-app, no code (Nov 22 – Dec 2) | ✅ |
 | [intropi](https://intropi.app/black-friday) | Self-hypnosis & guided meditation for sleep, focus and habits — 191 topics, 114 audio journeys (iOS/Android/web) | 💸 ♾️ **53% OFF** Premium Lifetime $189.99 → $89.99, no code (Nov 25 – Dec 1) | ✅ |
 | [DeskRest](https://deskrest.app/) | Break reminder for healthy screen habits | 💸 **80% OFF** lifetime — code `BLACKFRIDAY80` | ✅ |
 | [Nutrify](https://nutrifytracker.com/) | AI calorie tracker — snap a photo to log calories & macros (iPhone + Android) | 💸 **60% OFF** first year ($49.99 → $19.99) · Lifetime $79 (reg $99), no code (Nov 20 – Dec 30) | ✅ |
