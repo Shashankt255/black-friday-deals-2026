@@ -803,6 +803,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [n8n](https://n8n.io/) | Advanced workflow automation with 400+ integrations | 💸 **50% OFF** Business annual plans | ✅ |
 | [Manychat](https://manychat.com/) | Automated chat marketing for WhatsApp, Instagram & SMS | 💸 **50% OFF** first 2 months of Pro | ✅ |
 | [WhatsTeam](https://whats.team/) | Shared WhatsApp inbox for sales and support teams on the official WhatsApp Business API, with campaigns and AI agents | **40% OFF** first 6 months of any monthly plan ($29 → $17.40/mo) — code `BLACKFRIDAY40` (Nov 22 – Dec 1, 2026, new subscriptions) | ✅ |
+| [AGNT](https://agnt.gg/pricing) | Desktop AI agent platform for agents and workflows on your computer or a cloud instance | **40% OFF** first year of yearly plans (Pro $290 → $174, Team $990 → $594) — code `BLACKFRIDAY` (Nov 18 – Nov 30, 2026) | ✅ |
 
 ### Email Marketing
 
