@@ -668,6 +668,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Backdrop](https://cindori.com/backdrop) | Interactive live wallpapers for your Mac's Lock Screen and desktop | ♾️ **30% OFF** Lifetime $29.99 → $20.99, no code needed (Nov 24 – Dec 1) | ✅ |
 | [daisyUI](https://daisyui.com/store/) | Tailwind CSS UI component library — official templates and themes | **Up to 45% OFF** — code `BF26TZXLP` (discount drops each day) | ✅ |
 | [A1](https://www.a1.gallery/pricing) | Hand-picked gallery of real, live websites for design inspiration, with sections, full pages, fonts and colours for each site | **33% OFF** Pro yearly $72 → $48/yr, kept while subscribed, no code needed (Nov 19 – Nov 30) | ✅ |
+| [SILVER: Black & White Camera](https://apps.apple.com/app/id6813106996?pt=128535281&ct=bf26-shashank-bf) | Black-and-white film camera for iPhone and iPad with six free films and a private photo journal, no subscription | ♾️ **40% OFF** SILVER Pro one-time unlock $4.99 → $2.99 (US App Store), auto-applied (Nov 26 – Dec 1) | ✅ |
 
 ### SEO & Marketing
 
@@ -784,6 +785,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Email Me](https://emailmeapp.net/black-friday.php) | Voice or text notes to your inbox in one tap, AI transcription (iOS, Mac, Watch) | **23% OFF** Premium yearly ($12.99 → $9.99), no code (Nov 27 – Dec 1) | ✅ |
 | [Mole](https://mole.fit/) | Native Mac app to clean caches, uninstall apps and analyze disk space | **20% OFF** one-time license ($19 → $15.20), no code needed (Nov 25 – Nov 30) | ✅ |
 | [Yado](https://yado.house/) | Manage and clean up your iPhone from your Mac | **20% OFF** one-time license ($19 → $15.20), no code needed (Nov 27 – Nov 30) | ✅ |
+| [Fridge: Lock Screen Notes](https://apps.apple.com/app/id6794317782?pt=128535281&ct=bf26-shashank-bf) | Shopping list or to-do note on the iPhone Lock Screen, ticked off without unlocking and shareable with family | ♾️ **40% OFF** Fridge Plus Lifetime $4.99 → $2.99 (US App Store), auto-applied (Nov 26 – Dec 1) | ✅ |
 
 ### Automation
 
