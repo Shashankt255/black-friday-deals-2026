@@ -626,6 +626,8 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Manning](https://www.manning.com/) | LiveBook, MEAP early access | **45% OFF** daily deals running now | ✅ |
 | [Humble Bundle](https://www.humblebundle.com/) | Games, books & software bundles | **Up to 90% OFF** PC games — FF7 Rebirth $7.50, Choice members extra 20% off | ✅ |
 | [Valenx Interview Bundle](https://valenx.org/go/bf-bundle?utm_source=github&utm_medium=awesome_list&utm_campaign=bf2026) | PM, AI engineer and data science interview playbooks | **30% OFF** with code `BF30` | ✅ |
+| [Exploring Java Libraries: A Developer's Guide (Volume 1) (Leanpub)](https://leanpub.com/java-libraries-guide-1/c/BLACKFRIDAY50) ([Gumroad](https://solisdynamics.gumroad.com/l/java-libraries-guide-1)) | Practical guide covering 250 Java libraries for Core Systems, NIO, Concurrency, and JVM internals | 💸 ♾️ **50% OFF** ($19.99 → $10.00) — code `BLACKFRIDAY50` (Nov 25 – Dec 10) | ✅ |
+| [Exploring Java Libraries: A Developer's Guide (Volume 2) (Leanpub)](https://leanpub.com/java-libraries-guide-2/c/BLACKFRIDAY50) ([Gumroad](https://solisdynamics.gumroad.com/l/java-libraries-guide-2)) | Advanced guide covering 200+ Java libraries for Performance, Networking, Data Processing, and Architecture | 💸 ♾️ **50% OFF** ($19.99 → $10.00) — code `BLACKFRIDAY50` (Nov 25 – Dec 10) | ✅ |
 
 ## 🎨 Design & Productivity
 
