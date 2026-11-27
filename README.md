@@ -270,6 +270,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Crabsmith](https://crabsmith.com/#pricing) | Hosted control panel for Ubuntu servers: deploy Laravel, Node.js and Next.js over SSH with Caddy HTTPS | **40% OFF for life**, any plan — code `BLACKFRIDAY40` (through Dec 1) | ✅ |
 | [Pixels71](https://www.pixels71.com/pricing) | Website templates for Framer, Next.js and Astro, plus Figma design files | ♾️ **40% OFF** the All-Access Pass, $59 once (was $99), no code needed (Nov 24 – Dec 1) | ✅ |
 | [Exit Loop](https://www.exitloop.app/black-friday) | Cancel flows and failed-payment recovery for SaaS companies that bill with Stripe | 💸 **50% OFF** first year of the yearly plan ($149 → $74.50) — code `BLACKFRIDAY50` (Nov 26 – Dec 1, new customers) | ✅ |
+| [Pake](https://pake.run/) | Turn any website into a lightweight desktop app for Mac, Windows and Linux | **20% OFF** one-time license ($19 → $15.20), no code needed (Nov 27 – Nov 30) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
@@ -778,6 +779,8 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Caddy Docs](https://apps.apple.com/us/app/caddy-docs/id6802867430?mt=12) | Files, PDFs and notes in tabs at the edge of your Mac, with animated desktop pets | **38% OFF** one-time purchase ($21 → $12.99), no code, through Dec 1 | ✅ |
 | [XeOS: External Display Desktop](https://apps.apple.com/us/app/xeos-external-display-desktop/id6758286241) | Desktop mode for iPhone and iPad: windows, files, mouse and keyboard and a real browser on any external display | **25% OFF** lifetime ($39.99 → $29.99) — code `XEOSREDDIT` (Nov 27 – Dec 1) | ✅ |
 | [Voxipaw](https://voxipaw.kionesis.com/) | Focus timer in the browser with a voxel pet that grows up while you focus (puppy, kitten, bunny, capybara, otter or crocodile) | 💸 ♾️ **51% OFF** Lifetime Plus $99.99 → $49, no code (Nov 25 – Dec 1) | ✅ |
+| [Mole](https://mole.fit/) | Native Mac app to clean caches, uninstall apps and analyze disk space | **20% OFF** one-time license ($19 → $15.20), no code needed (Nov 25 – Nov 30) | ✅ |
+| [Yado](https://yado.house/) | Manage and clean up your iPhone from your Mac | **20% OFF** one-time license ($19 → $15.20), no code needed (Nov 27 – Nov 30) | ✅ |
 
 ### Automation
 
