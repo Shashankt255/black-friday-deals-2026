@@ -778,6 +778,8 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Caddy Docs](https://apps.apple.com/us/app/caddy-docs/id6802867430?mt=12) | Files, PDFs and notes in tabs at the edge of your Mac, with animated desktop pets | **38% OFF** one-time purchase ($21 → $12.99), no code, through Dec 1 | ✅ |
 | [XeOS: External Display Desktop](https://apps.apple.com/us/app/xeos-external-display-desktop/id6758286241) | Desktop mode for iPhone and iPad: windows, files, mouse and keyboard and a real browser on any external display | **25% OFF** lifetime ($39.99 → $29.99) — code `XEOSREDDIT` (Nov 27 – Dec 1) | ✅ |
 | [Voxipaw](https://voxipaw.kionesis.com/) | Focus timer in the browser with a voxel pet that grows up while you focus (puppy, kitten, bunny, capybara, otter or crocodile) | 💸 ♾️ **51% OFF** Lifetime Plus $99.99 → $49, no code (Nov 25 – Dec 1) | ✅ |
+| [Foca](https://foca.work/) | A calm Pomodoro timer for iPhone and Mac, with ambient sounds and guided stretch breaks. Foca for iPhone and Foca for Mac are separate Lifetime purchases | ♾️ Lifetime access $14.99 → $7.99 (US App Store), no code needed (Nov 27 – Dec 1) | ✅ |
+| [Dayfold](https://foca.work/dayfold.html) | Countdown and anniversary widgets for iPhone. Pin birthdays, trips and other moments as cards on your Home Screen and Lock Screen | ♾️ Lifetime access $14.99 → $7.99 (US App Store), no code needed (Nov 27 – Dec 1) | ✅ |
 
 ### Automation
 
@@ -1127,6 +1129,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Meanwhile](https://www.tappect.com/get/meanwhile) | Couple & BFF photo widget — share a photo each hour on each other's home screen | 💸 **Up to 84% OFF** first year Pro (from $7.99, reg $49.99) — Early Supporter offer (until Dec 31) | ✅ |
 | [Read My Dream](https://readmydream.com/plus) | Dream journal with AI dream readings (web) | 💸 **50% OFF** first year or month of Plus ($39.99 → $19.99/yr), no code (Nov 20 – Dec 1) | ✅ |
 | [PLANE.DEALS](https://plane.deals/black-friday) | Email alerts for cheap cash flight fares from the US airports you choose, with the bag limit on every deal | 💸 **First month free** on monthly plans (Pro $10/mo, Elite $30/mo) — code `BFMONTHFREE` · **25% OFF** the first year of annual plans (Pro $49 → $36.75, Elite $149 → $111.75) — code `BLACKFRIDAY25`; renews at the regular price (Nov 26 – Nov 30) | ✅ |
+| [Core: Interval & HIIT Timer](https://foca.work/core.html) | An interval timer for HIIT, Tabata, circuits and boxing, big, clear and easy to follow mid-workout | ♾️ Lifetime access $14.99 → $7.99 (US App Store), no code needed (Nov 27 – Dec 1) | ✅ |
 
 ### Kids & Family Gifts
 
