@@ -773,6 +773,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Switchy](https://getswitchy.app/black-friday) | Mac menu bar utility with 31 one-click switches (Dark Mode, Keep Awake, hide desktop icons), plus deploy status, 2FA codes and Claude/Codex usage limits | 💸 **50% OFF** one-time, up to 3 Macs ($4.99 → $2.49) — code `BLACKFRIDAY50` (Nov 23 – Dec 1) | ✅ |
 | [PasteNotch](https://pastenotch.com/black-friday) | Mac clipboard manager that lives in your notch: every clip (text, links, images, files) searchable, one shortcut away | 💸 **50% OFF** one-time purchase ($4.99 → $2.49) — code `BLACKFRIDAY50` (Nov 23 – Dec 1) | ✅ |
 | [Caddy Docs](https://apps.apple.com/us/app/caddy-docs/id6802867430?mt=12) | Files, PDFs and notes in tabs at the edge of your Mac, with animated desktop pets | **38% OFF** one-time purchase ($21 → $12.99), no code, through Dec 1 | ✅ |
+| [XeOS: External Display Desktop](https://apps.apple.com/us/app/xeos-external-display-desktop/id6758286241) | Desktop mode for iPhone and iPad: windows, files, mouse and keyboard and a real browser on any external display | **25% OFF** lifetime ($39.99 → $29.99) — code `XEOSREDDIT` (Nov 27 – Dec 1) | ✅ |
 
 ### Automation
 
