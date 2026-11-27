@@ -1127,6 +1127,12 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Read My Dream](https://readmydream.com/plus) | Dream journal with AI dream readings (web) | 💸 **50% OFF** first year or month of Plus ($39.99 → $19.99/yr), no code (Nov 20 – Dec 1) | ✅ |
 | [PLANE.DEALS](https://plane.deals/black-friday) | Email alerts for cheap cash flight fares from the US airports you choose, with the bag limit on every deal | 💸 **First month free** on monthly plans (Pro $10/mo, Elite $30/mo) — code `BFMONTHFREE` · **25% OFF** the first year of annual plans (Pro $49 → $36.75, Elite $149 → $111.75) — code `BLACKFRIDAY25`; renews at the regular price (Nov 26 – Nov 30) | ✅ |
 
+### Kids & Family Gifts
+
+| Product | Description | Deal | Status |
+|---------|-------------|------|--------|
+| [PageCub](https://pagecub.com/pricing) | Personalized illustrated children's storybook written around your child — 10 chapters, 20 custom illustrations, 49-page PDF by email in about an hour (web) | **25% OFF** the digital storybook ($19.99 → ~$14.99), applied automatically at checkout, no code (Nov 27 – Dec 25) | ✅ |
+
 ---
 
 ## 🗓️ Retailer Event Schedules
