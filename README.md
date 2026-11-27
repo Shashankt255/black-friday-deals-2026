@@ -548,6 +548,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Shorvo](https://shorvostudio.com/?utm_source=shashankt255&utm_medium=listing&utm_campaign=bf40) | Windows desktop app: paste a script, get a finished vertical YouTube Short (footage, AI voiceover, timed captions). First 3 videos free | **40% OFF** Pro Lifetime, one-time license ($129 → $77.40) — code `BF40` (until Dec 10) | ✅ |
 | [FireCut](https://firecut.ai/pricing/all/) | AI video editing plugin for Premiere Pro & DaVinci Resolve | 💸 **50% OFF** new annual plans (Max $59 → $29.50/mo, Pro $34 → $17/mo, billed yearly), no code needed (through Nov 30) | ✅ |
 | [MakeItSay](https://makeitsay.com/pricing) | Edit or translate text inside photos, screenshots, and labels while keeping the original font, perspective, and background | **30% OFF** one-time credit packs with auto-applied code `BF2026` ($3 → $2.10 for 6 edits / $10 → $7 for 40 edits); extra **40% OFF** first year of Pro/Studio yearly with `BF2026YEAR` ($200 → $120 / $490 → $294, through Dec 1) | ✅ |
+| [Unmerge](https://unmerge.app/pricing) | Split a flat image into named transparent layers and export a layered PSD | **+70 bonus credits** on the $10 Basic pack (130 → 200 credits, through Dec 1); extra **40% OFF** first year of Pro/Ultra yearly with auto-applied code `BF2026YEAR` ($210 → $126 / $360 → $216, renews at regular rate) | ✅ |
 
 ### AI SEO & Marketing
 
