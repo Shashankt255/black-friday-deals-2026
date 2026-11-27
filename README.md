@@ -1043,6 +1043,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Audible](https://www.audible.com/) | Audiobook subscription | 💸 **$0.99/mo** for 3 months + $20 credit (reg $8.99/mo) — ends Dec 28 | ✅ |
 | Kindle Unlimited | Unlimited ebook reading | **$0.99** for 3 months (reg $11.99/mo) | ⏳ |
 | [LiveReacting](https://www.livereacting.com/pricing) | Stream pre-recorded videos and 24/7 live channels to YouTube, Twitch & Facebook | 💸 **50% OFF** all plans | ✅ |
+| [Channel Surfer](https://channelsurfer.tv/upgrade/?code=BLACKFRIDAY50) | Turn YouTube channels and playlists into a TV guide you can flip through in your browser. | **50% OFF** Supporter Monthly (US$4.50/month for six months, then US$9/month) for accounts without an active paid subscription — code `BLACKFRIDAY50` (Nov 27–30, 2026) | ✅ |
 
 ### Music Production
 
