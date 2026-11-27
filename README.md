@@ -1115,6 +1115,12 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Meanwhile](https://www.tappect.com/get/meanwhile) | Couple & BFF photo widget — share a photo each hour on each other's home screen | 💸 **Up to 84% OFF** first year Pro (from $7.99, reg $49.99) — Early Supporter offer (until Dec 31) | ✅ |
 | [Read My Dream](https://readmydream.com/plus) | Dream journal with AI dream readings (web) | 💸 **50% OFF** first year or month of Plus ($39.99 → $19.99/yr), no code (Nov 20 – Dec 1) | ✅ |
 
+### Kids & Family Gifts
+
+| Product | Description | Deal | Status |
+|---------|-------------|------|--------|
+| [PageCub](https://pagecub.com/pricing) | Personalized illustrated children's storybook written around your child — 10 chapters, 20 custom illustrations, 49-page PDF by email in about an hour (web) | **25% OFF** the digital storybook ($19.99 → ~$14.99), applied automatically at checkout, no code (Nov 27 – Dec 25) | ✅ |
+
 ---
 
 ## 🗓️ Retailer Event Schedules
