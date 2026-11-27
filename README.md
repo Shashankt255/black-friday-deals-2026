@@ -1,12 +1,12 @@
 # 🔥 Awesome Black Friday & Cyber Monday Deals 2026
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-November%2027%2C%202026-brightgreen)](#)
-[![Deals](https://img.shields.io/badge/Total%20Deals-762-blue)](#)
+[![Deals](https://img.shields.io/badge/Total%20Deals-772-blue)](#)
 [![Categories](https://img.shields.io/badge/Categories-12-orange)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 762 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
+The **largest curated collection** of Black Friday & Cyber Monday 2026 deals — 772 verified deals across 12 categories for developers, designers, cybersecurity professionals, gamers, and tech enthusiasts.
 
 > 🌐 **[Browse the deals on our website](https://shashankt255.github.io/black-friday-deals-2026/)** — searchable, filterable, mobile-friendly
 
@@ -270,6 +270,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Crabsmith](https://crabsmith.com/#pricing) | Hosted control panel for Ubuntu servers: deploy Laravel, Node.js and Next.js over SSH with Caddy HTTPS | **40% OFF for life**, any plan — code `BLACKFRIDAY40` (through Dec 1) | ✅ |
 | [Pixels71](https://www.pixels71.com/pricing) | Website templates for Framer, Next.js and Astro, plus Figma design files | ♾️ **40% OFF** the All-Access Pass, $59 once (was $99), no code needed (Nov 24 – Dec 1) | ✅ |
 | [Exit Loop](https://www.exitloop.app/black-friday) | Cancel flows and failed-payment recovery for SaaS companies that bill with Stripe | 💸 **50% OFF** first year of the yearly plan ($149 → $74.50) — code `BLACKFRIDAY50` (Nov 26 – Dec 1, new customers) | ✅ |
+| [Pake](https://pake.run/) | Turn any website into a lightweight desktop app for Mac, Windows and Linux | **20% OFF** one-time license ($19 → $15.20), no code needed (Nov 27 – Nov 30) | ✅ |
 
 ## 🔒 Cybersecurity & Privacy
 
@@ -780,6 +781,9 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Voxipaw](https://voxipaw.kionesis.com/) | Focus timer in the browser with a voxel pet that grows up while you focus (puppy, kitten, bunny, capybara, otter or crocodile) | 💸 ♾️ **51% OFF** Lifetime Plus $99.99 → $49, no code (Nov 25 – Dec 1) | ✅ |
 | [Foca](https://foca.work/) | A calm Pomodoro timer for iPhone and Mac, with ambient sounds and guided stretch breaks. Foca for iPhone and Foca for Mac are separate Lifetime purchases | ♾️ Lifetime access $14.99 → $7.99 (US App Store), no code needed (Nov 27 – Dec 1) | ✅ |
 | [Dayfold](https://foca.work/dayfold.html) | Countdown and anniversary widgets for iPhone. Pin birthdays, trips and other moments as cards on your Home Screen and Lock Screen | ♾️ Lifetime access $14.99 → $7.99 (US App Store), no code needed (Nov 27 – Dec 1) | ✅ |
+| [Email Me](https://emailmeapp.net/black-friday.php) | Voice or text notes to your inbox in one tap, AI transcription (iOS, Mac, Watch) | **23% OFF** Premium yearly ($12.99 → $9.99), no code (Nov 27 – Dec 1) | ✅ |
+| [Mole](https://mole.fit/) | Native Mac app to clean caches, uninstall apps and analyze disk space | **20% OFF** one-time license ($19 → $15.20), no code needed (Nov 25 – Nov 30) | ✅ |
+| [Yado](https://yado.house/) | Manage and clean up your iPhone from your Mac | **20% OFF** one-time license ($19 → $15.20), no code needed (Nov 27 – Nov 30) | ✅ |
 
 ### Automation
 
@@ -1081,6 +1085,8 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [BatchMark](https://batchmark.dispatchcat.com/holiday-sale/) | iPhone/iPad photo app — batch watermark up to 100 photos, art frames, Color Walk cards and Photo Stories, all on-device | 💸 ♾️ **50% OFF** Lifetime ($79.99 → $39.99), auto-applied, no code (Nov 15 – Dec 25, 2026) | ✅ |
 | [FrameGloss](https://framegloss.app/?deal=blackfriday&utm_source=shashankt-bf2026&utm_medium=deal-list&utm_campaign=bf2026) | Browser-based Screen Studio alternative — spring zooms, macOS/browser frames, 9:16/4:5 smart crop & callouts, 100% local WebCodecs MP4/GIF | 💸 ♾️ **50% OFF** Pro Lifetime ($15 → $7.50, one-time) — code `BLACKFRIDAY` (Nov 24 – Nov 30, 2026) | ✅ |
 | [AI Teleprompter](https://aiteleprompterapp.com) | Voice-follow teleprompter for iPhone/iPad — the script scrolls as you speak, plus floating mode and one-tap recording for talking-head videos | 💸 ♾️ **50% OFF** Annual first year ($39.99 → $19.99) & Lifetime ($49.99 → $24.99), auto-applied, no code (Nov 20, 2026 – Jan 1, 2027) | ✅ |
+| [Digital Photo Frame](https://digitalphotoframeapp.com/black-friday/) | Turn your iPhone or iPad into a smart photo frame with slideshows | 💸 **50% OFF** Premium yearly ($19.99 → $9.99), no code (Nov 27 – Dec 1) | ✅ |
+| [Photo Booth App](https://thephotoboothapp.com/black-friday/) | Turn an iPhone or iPad into a photo booth for events | 💸 **50% OFF** yearly plan ($99.99 → $49.99), no code (Nov 27 – Dec 1) | ✅ |
 
 ## 🏋️ Health, Fitness & Lifestyle
 
@@ -1136,6 +1142,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | Product | Description | Deal | Status |
 |---------|-------------|------|--------|
 | [PageCub](https://pagecub.com/pricing) | Personalized illustrated children's storybook written around your child — 10 chapters, 20 custom illustrations, 49-page PDF by email in about an hour (web) | **25% OFF** the digital storybook ($19.99 → ~$14.99), applied automatically at checkout, no code (Nov 27 – Dec 25) | ✅ |
+| [Our Family Album](https://ourfamilyalbum.com/black-friday/) | Private family album for photos and videos (iPhone/iPad) | 💸 **50% OFF** Premium yearly ($49.99 → $24.99), no code (Nov 27 – Dec 1) | ✅ |
 
 ---
 
