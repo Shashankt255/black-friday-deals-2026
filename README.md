@@ -1123,6 +1123,7 @@ GitHub Copilot, Cursor, Tabnine, Midjourney, OpenAI/ChatGPT, Anthropic/Claude, G
 | [Nomu](https://www.tappect.com/get/nomu) | Intermittent fasting timer — 16:8, 18:6, OMAD (iPhone, Apple Watch, Android) | **57% OFF** first year ($29.99 → $12.99) · Lifetime $29.99 (reg $49.99), no code (Nov 20 – Dec 30) | ✅ |
 | [Meanwhile](https://www.tappect.com/get/meanwhile) | Couple & BFF photo widget — share a photo each hour on each other's home screen | 💸 **Up to 84% OFF** first year Pro (from $7.99, reg $49.99) — Early Supporter offer (until Dec 31) | ✅ |
 | [Read My Dream](https://readmydream.com/plus) | Dream journal with AI dream readings (web) | 💸 **50% OFF** first year or month of Plus ($39.99 → $19.99/yr), no code (Nov 20 – Dec 1) | ✅ |
+| [PLANE.DEALS](https://plane.deals/black-friday) | Email alerts for cheap cash flight fares from the US airports you choose, with the bag limit on every deal | 💸 **First month free** on monthly plans (Pro $10/mo, Elite $30/mo) — code `BFMONTHFREE` · **25% OFF** the first year of annual plans (Pro $49 → $36.75, Elite $149 → $111.75) — code `BLACKFRIDAY25`; renews at the regular price (Nov 26 – Nov 30) | ✅ |
 
 ---
 
