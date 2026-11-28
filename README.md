@@ -510,6 +510,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [Meetily](https://meetily.ai/pricing) | Open-source, bot-free AI meeting assistant for macOS & Windows that transcribes on your device | 💸 **55% OFF** Annual Pro $120 → $54/license/year — code `BLACKFRIDAY55`, auto-applied at checkout (Nov 25 – Dec 2) | ✅ |
 | [ImagineYourBook](https://www.imagineyourbook.com/blackfriday) | AI book writer that plans and drafts full-length novels with a cover, export to Word, EPUB or Markdown (web) | **Pay-once novel credit packs**: Duet (2 novels) $59, Series (5 novels) $119 + 1 novel to give away, Library (10 novels) $199 + 1 novel to give away. Normal price $5 a credit, a novel up to 80,000 words is 16 credits, credits never expire, no code needed (until Nov 30, 11:59 pm PT) | ✅ |
 | [Sky OS AI](https://skyrunapp.com/) | AI that does the work on your own Mac: ask from your phone or the web, it uses your apps, files & browser and shows every step | **30% OFF** first month of any monthly plan (Pro: $14 first month, then $20/mo), auto-applied, no code (Nov 26 – Nov 30, 11:59 pm ET) | ✅ |
+| [Atris](https://atris.ai/black-friday) | AI team with monthly credits, team members, an agent computer & 60+ studio apps (macOS, web, text, CLI, MCP, ChatGPT) | 💸 **25%–75% OFF** Pro Month 1 ($5–$15 vs $20/mo, negotiate in 5 turns, 25% off min guaranteed, no code, ends Dec 1) | ✅ |
 
 ### AI Image & Video
 
