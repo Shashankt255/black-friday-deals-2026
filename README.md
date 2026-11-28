@@ -386,6 +386,7 @@ The **largest curated collection** of Black Friday & Cyber Monday 2026 deals —
 | [SimpleumSafe](https://simpleum.com/) | Encrypted file safe for Mac with AES-256 | **30% OFF** all plans | ✅ |
 | [Zero-Trace Ship Kit](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/) | Git hooks that stop commit/push when leaked keys, home paths or emails are found, plus clean release ZIPs | ♾️ **40% OFF** Solo licence — code `FOUNDER10` (first 100 uses) | ✅ |
 | [OSINTverse](https://osintverse.com/pricing) | OSINT search across 17 sources from one box, with cases, a team graph, an API and an MCP server; pay per lookup | **10% OFF** any credit top-up, wallet credited the full amount — code `BLACKFRIDAY10` (through Nov 30, 23:59 UTC) | ✅ |
+| [PhishStats](https://phishstats.info/blackfriday) | Phishing URL database & real-time threat feed with API, brand monitoring and full historical download | **30% OFF** Enterprise first year ($99 → $69.30) — code `BF2026` (through Dec 1) | ✅ |
 
 ## ☁️ Cloud, Hosting & Domains
 
